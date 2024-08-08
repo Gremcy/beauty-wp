@@ -1,0 +1,353 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: onrial\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-12-14 12:43+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: onrial"
+
+msgid "Search"
+msgstr ""
+
+msgid "YOUR NAME"
+msgstr ""
+
+msgid "Filling error, please check"
+msgstr ""
+
+msgid "YOUR COUNTRY"
+msgstr ""
+
+msgid "YOUR PHONE"
+msgstr ""
+
+msgid "YOUR E-MAIL"
+msgstr ""
+
+msgid "ADD COMMENT"
+msgstr ""
+
+msgid "Send"
+msgstr ""
+
+msgid "Wait"
+msgstr ""
+
+msgid "Your name"
+msgstr ""
+
+msgid "What do you do?"
+msgstr ""
+
+msgid "Your e-mail"
+msgstr ""
+
+msgid "Go to catalog"
+msgstr ""
+
+msgid "Your phone"
+msgstr ""
+
+msgid "Your message"
+msgstr ""
+
+msgid "REASON"
+msgstr ""
+
+msgid "HOW TO SOLVE THE PROBLEM"
+msgstr ""
+
+msgid "The form"
+msgstr ""
+
+msgid "Link for Instagram"
+msgstr ""
+
+msgid "Where did you buy our products?"
+msgstr ""
+
+msgid "Are you already our wholesale customer?"
+msgstr ""
+
+msgid "You are an ambassador of other brands?"
+msgstr ""
+
+msgid "Advices"
+msgstr ""
+
+msgid "Nothing found."
+msgstr ""
+
+msgid "All articles"
+msgstr ""
+
+msgid "Your question"
+msgstr ""
+
+msgid "tel"
+msgstr ""
+
+msgid "address"
+msgstr ""
+
+msgid "Load more"
+msgstr ""
+
+msgid "Filters"
+msgstr ""
+
+msgid "Fast order"
+msgstr ""
+
+msgid "Clear all"
+msgstr ""
+
+msgid "Apply"
+msgstr ""
+
+msgid "In stock"
+msgstr ""
+
+msgid "Out of stock"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Certificates"
+msgstr ""
+
+msgid "Reviews"
+msgstr ""
+
+msgid "Add to favorite"
+msgstr ""
+
+msgid "Specify the required parameters"
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+msgid "Checkout"
+msgstr ""
+
+msgid "Your cart is empty."
+msgstr ""
+
+msgid "Fill out the form and get a 5% discount"
+msgstr ""
+
+msgid "Get 5% discount"
+msgstr ""
+
+msgid "Payment"
+msgstr ""
+
+msgid "Delivery"
+msgstr ""
+
+msgid "Items"
+msgstr ""
+
+msgid "Subtotal"
+msgstr ""
+
+msgid "For orders over $ 100, the shipping cost will be free"
+msgstr ""
+
+msgid "Continue shopping"
+msgstr ""
+
+msgid "Coupon code"
+msgstr ""
+
+msgid "Have a coupon?"
+msgstr ""
+
+msgid "Use"
+msgstr ""
+
+msgid "Total"
+msgstr ""
+
+msgid "Make an order"
+msgstr ""
+
+msgid "Address"
+msgstr ""
+
+msgid "FREE"
+msgstr ""
+
+msgid "Shipping"
+msgstr ""
+
+msgid "Congratulations!"
+msgstr ""
+
+msgid "The order confirmation was sent on your e-mail."
+msgstr ""
+
+msgid "Back to the store"
+msgstr ""
+
+msgid "Your order has been received"
+msgstr ""
+
+msgid "Something went wrong"
+msgstr ""
+
+msgid "Try again"
+msgstr ""
+
+msgid "or contact with your bank"
+msgstr ""
+
+msgid "List of masters"
+msgstr ""
+
+msgid "Skills"
+msgstr ""
+
+msgid "details"
+msgstr ""
+
+msgid "Individual training"
+msgstr ""
+
+msgid "Course plan"
+msgstr ""
+
+msgid "Sign up"
+msgstr ""
+
+msgid "Link in social media"
+msgstr ""
+
+msgid "Choose a region"
+msgstr ""
+
+msgid "All regions"
+msgstr ""
+
+msgid "Accept"
+msgstr ""
+
+msgid "Manage my preferences"
+msgstr ""
+
+msgid "Save my preferences"
+msgstr ""
+
+msgid "Active"
+msgstr ""
+
+msgid "Inactive"
+msgstr ""
+
+msgid "Always Active"
+msgstr ""
+
+msgid "see more"
+msgstr ""
+
+msgid "Search results for"
+msgstr ""
+
+msgid "Nothing found for"
+msgstr ""
+
+msgid "Found"
+msgstr ""
+
+msgid "product"
+msgstr ""
+
+msgid "products"
+msgstr ""
+
+msgid "Nothing found"
+msgstr ""
+
+msgid "Search results"
+msgstr ""
+
+msgid "Show all results"
+msgstr ""
+
+msgid "Contacts"
+msgstr ""
+
+msgid "Maybe you like"
+msgstr ""
+
+msgid "Quick order"
+msgstr ""
+
+msgid "I have a discount"
+msgstr ""
+
+msgid "Use your discount"
+msgstr ""
+
+msgid "Coupon"
+msgstr ""
+
+msgid "Coupon code is wrong or already used"
+msgstr ""
+
+msgid "Get discount"
+msgstr ""
+
+msgid " Your coupon"
+msgstr ""
+
+msgid "Copy code"
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "Hello!"
+msgstr ""
+
+msgid "Thank you for your interest but you have already got the discount."
+msgstr ""
+
+msgid "Follow our news on the website, there will be discounts more than once."
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "item"
+msgstr ""
+
+msgid "items"
+msgstr ""
+
+msgid "in stock"
+msgstr ""
+
+msgid "NIP"
+msgstr ""
+
+msgid "Parcel locker"
+msgstr ""
+
+msgid "from"
+msgstr ""

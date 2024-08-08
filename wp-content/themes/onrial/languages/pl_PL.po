@@ -1,0 +1,355 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: onrial\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-19 10:16+0000\n"
+"PO-Revision-Date: 2023-12-14 12:44+0000\n"
+"Last-Translator: Olena Mazur\n"
+"Language-Team: Polish\n"
+"Language: pl_PL\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10 >= 2 && n%10<=4 "
+"&&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: onrial"
+
+msgid " Your coupon"
+msgstr ""
+
+msgid "Accept"
+msgstr "Zaakceptować"
+
+msgid "Active"
+msgstr "Aktywny"
+
+msgid "ADD COMMENT"
+msgstr "Napisz opinię"
+
+msgid "Add to favorite"
+msgstr ""
+"Dodaj do przechowalni\n"
+
+msgid "Address"
+msgstr "Adres"
+
+msgid "address"
+msgstr "adres"
+
+msgid "Advices"
+msgstr "Porady"
+
+msgid "All"
+msgstr "Wszystkie"
+
+msgid "All articles"
+msgstr "Wszystkie artykuły"
+
+msgid "All regions"
+msgstr "Wszystkie województwa"
+
+msgid "Always Active"
+msgstr "Zawsze aktywny"
+
+msgid "Apply"
+msgstr "Zastosuj"
+
+msgid "Are you already our wholesale customer?"
+msgstr "Czy jesteś już naszym klientem hurtowym?"
+
+msgid "Back"
+msgstr ""
+
+msgid "Back to the store"
+msgstr "Powrót do sklepu"
+
+msgid "Certificates"
+msgstr "Certyfikaty"
+
+msgid "Checkout"
+msgstr "Zlóż zamówienie"
+
+msgid "Choose a region"
+msgstr "Wybierz województwo"
+
+msgid "Clear all"
+msgstr "Usuń wszystkie"
+
+msgid "Congratulations!"
+msgstr "Gratulacje!"
+
+msgid "Contacts"
+msgstr ""
+
+msgid "Continue shopping"
+msgstr "Kontynuuj zakupy"
+
+msgid "Copy code"
+msgstr ""
+
+msgid "Coupon"
+msgstr ""
+
+msgid "Coupon code"
+msgstr "Kod kuponu rabatowego"
+
+msgid "Coupon code is wrong or already used"
+msgstr ""
+
+msgid "Course plan"
+msgstr "Harmonogram szkolenia"
+
+msgid "Delivery"
+msgstr "Wysyłka"
+
+msgid "Description"
+msgstr "Opis"
+
+msgid "details"
+msgstr "detale"
+
+msgid "Fast order"
+msgstr "Szybkie zamówienie"
+
+msgid "Fill out the form and get a 5% discount"
+msgstr "Wypełnij formularz i uzyskaj rabat 5%"
+
+msgid "Filling error, please check"
+msgstr "Wystąpił błąd wypełnienia, proszę sprawdzić"
+
+msgid "Filters"
+msgstr "Filtry"
+
+msgid "Follow our news on the website, there will be discounts more than once."
+msgstr ""
+
+msgid "For orders over $ 100, the shipping cost will be free"
+msgstr ""
+"Darmowa wysyłka powyżej 199 zł, tylko na terenie Polski (przy przedpłacie)."
+
+msgid "Found"
+msgstr ""
+
+msgid "FREE"
+msgstr "GRATIS"
+
+msgid "from"
+msgstr ""
+
+msgid "Get 5% discount"
+msgstr "uzyskaj rabat 5%"
+
+msgid "Get discount"
+msgstr ""
+
+msgid "Go to catalog"
+msgstr "Przejdź do katalogu"
+
+msgid "Have a coupon?"
+msgstr "Masz kupon rabatowy?"
+
+msgid "Hello!"
+msgstr ""
+
+msgid "HOW TO SOLVE THE PROBLEM"
+msgstr "JAK ROZWIĄZAĆ PROBLEM"
+
+msgid "I have a discount"
+msgstr ""
+
+msgid "In stock"
+msgstr "w magazynie"
+
+msgid "in stock"
+msgstr ""
+
+msgid "Inactive"
+msgstr "Nie aktywny"
+
+msgid "Individual training"
+msgstr "Indywidualne szkolenie"
+
+msgid "item"
+msgstr ""
+
+msgid "Items"
+msgstr "Produkty"
+
+msgid "items"
+msgstr ""
+
+msgid "Link for Instagram"
+msgstr "Link do Instagrama"
+
+msgid "Link in social media"
+msgstr "Link w mediach społecznościowych"
+
+msgid "List of masters"
+msgstr "Lista szkoleniowców"
+
+msgid "Load more"
+msgstr "Załaduj więcej"
+
+msgid "Make an order"
+msgstr "Zlóż zamówienie"
+
+msgid "Manage my preferences"
+msgstr "Zarządzaj moimi upodobaniami"
+
+msgid "Maybe you like"
+msgstr ""
+
+msgid "NIP"
+msgstr ""
+
+msgid "Nothing found"
+msgstr ""
+
+msgid "Nothing found for"
+msgstr ""
+
+msgid "Nothing found."
+msgstr "Nic nie znaleziono"
+
+msgid "or contact with your bank"
+msgstr "lub skontaktuj się ze swoim bankiem"
+
+msgid "Out of stock"
+msgstr "Nie dostępny"
+
+msgid "Parcel locker"
+msgstr "Nazwa Paczkomaty"
+
+msgid "Payment"
+msgstr "PŁATNOŚĆ"
+
+msgid "product"
+msgstr ""
+
+msgid "products"
+msgstr ""
+
+msgid "Quick order"
+msgstr ""
+
+msgid "REASON"
+msgstr "POWÓD"
+
+msgid "Reviews"
+msgstr "Opinie o produkcie"
+
+msgid "Save"
+msgstr ""
+
+msgid "Save my preferences"
+msgstr "Zapisz moje preferencje"
+
+msgid "Search"
+msgstr "Szukaj"
+
+msgid "Search results"
+msgstr ""
+
+msgid "Search results for"
+msgstr ""
+
+msgid "see more"
+msgstr "Zobacz więcej"
+
+msgid "Select"
+msgstr "Wybierz"
+
+msgid "Send"
+msgstr "Wysłać"
+
+msgid "Shipping"
+msgstr "Dostawa"
+
+msgid "Show all results"
+msgstr ""
+
+msgid "Sign up"
+msgstr "Zarejestruj się"
+
+msgid "Skills"
+msgstr "Umiejętności"
+
+msgid "Something went wrong"
+msgstr "Coś poszło nie tak"
+
+msgid "Specify the required parameters"
+msgstr "Określ wymagane parametry"
+
+msgid "Subtotal"
+msgstr "Podsumowanie"
+
+msgid "tel"
+msgstr "tel"
+
+msgid "Thank you for your interest but you have already got the discount."
+msgstr ""
+
+msgid "The form"
+msgstr "Formularz"
+
+msgid "The order confirmation was sent on your e-mail."
+msgstr "Potwierdzenie zamówienia zostało wysłane na Twój e-mail."
+
+msgid "Total"
+msgstr "Razem"
+
+msgid "Try again"
+msgstr "Proszę spróbuj ponownie"
+
+msgid "Use"
+msgstr "Użyj"
+
+msgid "Use your discount"
+msgstr ""
+
+msgid "Wait"
+msgstr "Czekaj"
+
+msgid "What do you do?"
+msgstr "Czym się zajmujesz?"
+
+msgid "Where did you buy our products?"
+msgstr "Gdzie kupiłaś nasze produkty?"
+
+msgid "You are an ambassador of other brands?"
+msgstr "Jesteś ambasadorem innych marek?"
+
+msgid "Your cart is empty."
+msgstr "Twój koszyk jest pusty"
+
+msgid "YOUR COUNTRY"
+msgstr "TWÓJ KRAJ"
+
+msgid "YOUR E-MAIL"
+msgstr "TWÓJ E-MAIL"
+
+msgid "Your e-mail"
+msgstr "Twój e-mail"
+
+msgid "Your message"
+msgstr "Twoja wiadomość"
+
+msgid "YOUR NAME"
+msgstr "Nazwisko"
+
+msgid "Your name"
+msgstr "Imię"
+
+msgid "Your order has been received"
+msgstr "Twoje zamówienie zostało przyjęte"
+
+msgid "YOUR PHONE"
+msgstr "TWÓJ TELEFON"
+
+msgid "Your phone"
+msgstr "Telefon"
+
+msgid "Your question"
+msgstr "Twoje pytanie"

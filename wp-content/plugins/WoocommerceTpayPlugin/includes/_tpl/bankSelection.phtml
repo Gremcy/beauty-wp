@@ -1,0 +1,44 @@
+<div class="tpay-insidebg" id="tpay-transfers-form">
+    <input name="tpay-channel-input" id="tpay-channel-input" type="hidden">
+    <input name="tpay-regulations-input" id="tpay-regulations-input" type="hidden">
+    <div class="tpay-header-wrapper">
+        <div class="tpay-header-logo">
+            <img class="tpay-logo" src="https://tpay.com/img/banners/tpay_logo_white.svg"
+                 style="float: left; padding: 35px 0 0 15px; max-height: 100%"/>
+        </div>
+        <div class="tpay-header-belt"></div>
+    </div>
+    <div id="groups_v" class="tpay-panel-inside-content">
+        <div id="bank-selection-form" class="tpay-groups-wrapper">
+            <?php
+            if ($data['small_list'] === true) { ?>
+                <select name="bank_list" id="tpay-bank-list" class="tpay-select"></select>
+            <?php
+            } ?>
+        </div>
+        <?php
+        if (isset($data['form'])) {
+            echo $data['form'];
+        } ?>
+    </div>
+</div>
+<div class="tpay-row">
+    <div class="tpay-amPmCheckbox">
+        <input id="tpay-accept-regulations-checkbox" type="checkbox" value="0">
+        <label for="tpay-accept-regulations-checkbox" class="tpay-info-label">
+            <?php
+            $lang->l('accept') ?> <a href="<?php
+            echo $data['regulation_url'] ?>"
+                                     target="_blank"><?php
+                $lang->l('regulations_url') ?></a>
+            <?php
+            $lang->l('regulations'); ?>
+            <?php
+            $lang->l('privacy_policy'); ?>
+            <a href="<?php
+            echo $data['policy_privacy_url'] ?>" target="_blank"><?php
+                $lang->l('privacy_policy_href') ?></a>
+
+        </label>
+    </div>
+</div>

@@ -1,0 +1,5746 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<product>
+		<title>Anti allergy gel</title>
+		<sku>000036307</sku>
+		<quantity>1</quantity>
+		<price>
+			<usd>22.7</usd>
+			<eur>21.7</eur>
+			<pln>78</pln>
+		</price>
+	</product>
+	<product>
+		<title>Anti allergy spray</title>
+		<sku>000036306</sku>
+		<quantity>5</quantity>
+		<price>
+			<usd>21.8</usd>
+			<eur>20.8</eur>
+			<pln>74</pln>
+		</price>
+	</product>
+	<product>
+		<title>Eyebrow&amp;Eyelash Intensive Care (5 ml)</title>
+		<sku>000020652</sku>
+		<quantity>2</quantity>
+		<price>
+			<usd>26</usd>
+			<eur>25</eur>
+			<pln>113</pln>
+		</price>
+	</product>
+	<product>
+		<title>Lamy Ultra #1 (5ml)</title>
+		<sku>000020650</sku>
+		<quantity>109</quantity>
+		<price>
+			<usd>21</usd>
+			<eur>20</eur>
+			<pln>89</pln>
+		</price>
+	</product>
+	<product>
+		<title>Lamy Ultra #2 (5ml)</title>
+		<sku>000020651</sku>
+		<quantity>109</quantity>
+		<price>
+			<usd>21</usd>
+			<eur>20</eur>
+			<pln>89</pln>
+		</price>
+	</product>
+	<product>
+		<title>Eyelash extension tool</title>
+		<sku>000036829</sku>
+		<quantity>29</quantity>
+		<price>
+			<usd>3.4</usd>
+			<eur>3.3</eur>
+			<pln>12</pln>
+		</price>
+	</product>
+	<product>
+		<title>White silicone rolls for lamination procedure 5 pa</title>
+		<sku>000034816</sku>
+		<quantity>4</quantity>
+		<price>
+			<usd>11.4</usd>
+			<eur>10.9</eur>
+			<pln>38</pln>
+		</price>
+	</product>
+	<product>
+		<title>Pink silicone rolls for lamination procedure 5 pai</title>
+		<sku>000034817</sku>
+		<quantity>2</quantity>
+		<price>
+			<usd>11.4</usd>
+			<eur>10.9</eur>
+			<pln>38</pln>
+		</price>
+	</product>
+	<product>
+		<title>Rainbow silicone rolls for lamination procedure 5</title>
+		<sku>000034818</sku>
+		<quantity>3</quantity>
+		<price>
+			<usd>16</usd>
+			<eur>15.2</eur>
+			<pln>52</pln>
+		</price>
+	</product>
+	<product>
+		<title>Gel remover "Green"</title>
+		<sku>000023726</sku>
+		<quantity>17</quantity>
+		<price>
+			<usd>13</usd>
+			<eur>12</eur>
+			<pln>50</pln>
+		</price>
+	</product>
+	<product>
+		<title>MAGIC COATING Sealant</title>
+		<sku>000036304</sku>
+		<quantity>54</quantity>
+		<price>
+			<usd>26</usd>
+			<eur>24.9</eur>
+			<pln>92</pln>
+		</price>
+	</product>
+	<product>
+		<title>Coating sealant SUPER BLACK</title>
+		<sku>000036302</sku>
+		<quantity>74</quantity>
+		<price>
+			<usd>19</usd>
+			<eur>18.2</eur>
+			<pln>66</pln>
+		</price>
+	</product>
+	<product>
+		<title>Clear lash coating</title>
+		<sku>000018286</sku>
+		<quantity>5</quantity>
+		<price>
+			<usd>18</usd>
+			<eur>16</eur>
+			<pln>56</pln>
+		</price>
+	</product>
+	<product>
+		<title>Coating sealant with eater-based brush</title>
+		<sku>000025368</sku>
+		<quantity>15</quantity>
+		<price>
+			<usd>32</usd>
+			<eur>25</eur>
+			<pln>78</pln>
+		</price>
+	</product>
+	<product>
+		<title>Black lash coating</title>
+		<sku>000018287</sku>
+		<quantity>7</quantity>
+		<price>
+			<usd>18</usd>
+			<eur>16</eur>
+			<pln>56</pln>
+		</price>
+	</product>
+	<product>
+		<title>Eyelash extension tool</title>
+		<sku>000020713</sku>
+		<quantity>25</quantity>
+		<price>
+			<usd>3.4</usd>
+			<eur>3.3</eur>
+			<pln>12</pln>
+		</price>
+	</product>
+	<product>
+		<title>Eyelash lamination glue MAX POWER</title>
+		<sku>000036303</sku>
+		<quantity>117</quantity>
+		<price>
+			<usd>21.1</usd>
+			<eur>20.2</eur>
+			<pln>74</pln>
+		</price>
+	</product>
+	<product>
+		<title>Eyelash lamination glue 5ml</title>
+		<sku>000020653</sku>
+		<quantity>33</quantity>
+		<price>
+			<usd>24</usd>
+			<eur>20</eur>
+			<pln>70</pln>
+		</price>
+	</product>
+	<product>
+		<title>Cream remover "Banana"</title>
+		<sku>000023727</sku>
+		<quantity>17</quantity>
+		<price>
+			<usd>18</usd>
+			<eur>16</eur>
+			<pln>85</pln>
+		</price>
+	</product>
+	<product>
+		<title>Cream remover "Pudding"</title>
+		<sku>000023728</sku>
+		<quantity>30</quantity>
+		<price>
+			<usd>18</usd>
+			<eur>16</eur>
+			<pln>85</pln>
+		</price>
+	</product>
+	<product>
+		<title>Tablet 8-13 (print)</title>
+		<sku>000029941</sku>
+		<quantity>7</quantity>
+		<price>
+			<usd>75</usd>
+			<eur>71.7</eur>
+			<pln>204</pln>
+		</price>
+	</product>
+	<product>
+		<title>lBranded lashbox on 7 sq. on hand + tablets 7*7</title>
+		<sku>000029940</sku>
+		<quantity>9</quantity>
+		<price>
+			<usd>59.1</usd>
+			<eur>56.4</eur>
+			<pln>160</pln>
+		</price>
+	</product>
+	<product>
+		<title>Pre-treatment  "Green tea"</title>
+		<sku>000016602</sku>
+		<quantity>103</quantity>
+		<price>
+			<usd>13</usd>
+			<eur>12</eur>
+			<pln>42</pln>
+		</price>
+	</product>
+	<product>
+		<title>Pre-treatment "Marine Collagen"</title>
+		<sku>000016604</sku>
+		<quantity>62</quantity>
+		<price>
+			<usd>13</usd>
+			<eur>12</eur>
+			<pln>42</pln>
+		</price>
+	</product>
+	<product>
+		<title>Pre-treatment "Flower"</title>
+		<sku>000016603</sku>
+		<quantity>60</quantity>
+		<price>
+			<usd>13</usd>
+			<eur>12</eur>
+			<pln>42</pln>
+		</price>
+	</product>
+	<product>
+		<title>Branded white acrylic organizer for craftsmen</title>
+		<sku>000029936</sku>
+		<quantity>2</quantity>
+		<price>
+			<usd>47.8</usd>
+			<eur>45.6</eur>
+			<pln>130</pln>
+		</price>
+	</product>
+	<product>
+		<title>Tweezers «Hollywood» silver</title>
+		<sku>000018125</sku>
+		<quantity>43</quantity>
+		<price>
+			<usd>17</usd>
+			<eur>15</eur>
+			<pln>67</pln>
+		</price>
+	</product>
+	<product>
+		<title>Tweezers «Hollywood» (black pearl)</title>
+		<sku>000025925</sku>
+		<quantity>41</quantity>
+		<price>
+			<usd>18</usd>
+			<eur>16</eur>
+			<pln>67</pln>
+		</price>
+	</product>
+	<product>
+		<title>Tweezers «Hollywood» (black with gold)</title>
+		<sku>000022371</sku>
+		<quantity>28</quantity>
+		<price>
+			<usd>17</usd>
+			<eur>15</eur>
+			<pln>67</pln>
+		</price>
+	</product>
+	<product>
+		<title>Tweezers «Dolphin» (silver)</title>
+		<sku>000025295</sku>
+		<quantity>16</quantity>
+		<price>
+			<usd>17</usd>
+			<eur>15</eur>
+			<pln>67</pln>
+		</price>
+	</product>
+	<product>
+		<title>Tweezers «Dolphin» (black pearl)</title>
+		<sku>000025924</sku>
+		<quantity>29</quantity>
+		<price>
+			<usd>18</usd>
+			<eur>16</eur>
+			<pln>67</pln>
+		</price>
+	</product>
+	<product>
+		<title>Tweezers «Dolphin» (black with gold)</title>
+		<sku>000023644</sku>
+		<quantity>20</quantity>
+		<price>
+			<usd>17</usd>
+			<eur>15</eur>
+			<pln>67</pln>
+		</price>
+	</product>
+	<product>
+		<title>Tweezers «MEGA Hollywood» silver</title>
+		<sku>000021999</sku>
+		<quantity>43</quantity>
+		<price>
+			<usd>17</usd>
+			<eur>15</eur>
+			<pln>67</pln>
+		</price>
+	</product>
+	<product>
+		<title>Tweezers «MEGA Hollywood» (black pearl)</title>
+		<sku>000025277</sku>
+		<quantity>38</quantity>
+		<price>
+			<usd>18</usd>
+			<eur>16</eur>
+			<pln>67</pln>
+		</price>
+	</product>
+	<product>
+		<title>Tweezers «Mega Hollywood» (black with gold)</title>
+		<sku>000022375</sku>
+		<quantity>38</quantity>
+		<price>
+			<usd>17</usd>
+			<eur>15</eur>
+			<pln>67</pln>
+		</price>
+	</product>
+	<product>
+		<title>Tweezers «X volume» silver</title>
+		<sku>000026135</sku>
+		<quantity>24</quantity>
+		<price>
+			<usd>17</usd>
+			<eur>15</eur>
+			<pln>67</pln>
+		</price>
+	</product>
+	<product>
+		<title>Tweezers «X volume» (black pearl)</title>
+		<sku>000025278</sku>
+		<quantity>23</quantity>
+		<price>
+			<usd>18</usd>
+			<eur>16</eur>
+			<pln>67</pln>
+		</price>
+	</product>
+	<product>
+		<title>Tweezers «X volume» (black with gold)</title>
+		<sku>000026134</sku>
+		<quantity>25</quantity>
+		<price>
+			<usd>17</usd>
+			<eur>15</eur>
+			<pln>67</pln>
+		</price>
+	</product>
+	<product>
+		<title>Tweezers «mini-L» (silver)</title>
+		<sku>000018130</sku>
+		<quantity>24</quantity>
+		<price>
+			<usd>17</usd>
+			<eur>15</eur>
+			<pln>67</pln>
+		</price>
+	</product>
+	<product>
+		<title>Tweezers «mini-L» (black pearl)</title>
+		<sku>000025276</sku>
+		<quantity>32</quantity>
+		<price>
+			<usd>18</usd>
+			<eur>16</eur>
+			<pln>67</pln>
+		</price>
+	</product>
+	<product>
+		<title>Tweezers «mini-L» (black with gold)</title>
+		<sku>000022381</sku>
+		<quantity>36</quantity>
+		<price>
+			<usd>17</usd>
+			<eur>15</eur>
+			<pln>67</pln>
+		</price>
+	</product>
+	<product>
+		<title>Curved classic tweezers  (silver)</title>
+		<sku>000018124</sku>
+		<quantity>23</quantity>
+		<price>
+			<usd>17</usd>
+			<eur>15</eur>
+			<pln>67</pln>
+		</price>
+	</product>
+	<product>
+		<title>Curved classic tweezers  (black pearl)</title>
+		<sku>000025922</sku>
+		<quantity>27</quantity>
+		<price>
+			<usd>18</usd>
+			<eur>16</eur>
+			<pln>67</pln>
+		</price>
+	</product>
+	<product>
+		<title>Curved classic tweezers  (black wirh gold)</title>
+		<sku>000022377</sku>
+		<quantity>30</quantity>
+		<price>
+			<usd>17</usd>
+			<eur>15</eur>
+			<pln>67</pln>
+		</price>
+	</product>
+	<product>
+		<title>Straight tweezers  PROF (silver)</title>
+		<sku>000018127</sku>
+		<quantity>37</quantity>
+		<price>
+			<usd>17</usd>
+			<eur>15</eur>
+			<pln>67</pln>
+		</price>
+	</product>
+	<product>
+		<title>Straight tweezers  PROF (black pearl)</title>
+		<sku>000025923</sku>
+		<quantity>24</quantity>
+		<price>
+			<usd>18</usd>
+			<eur>16</eur>
+			<pln>67</pln>
+		</price>
+	</product>
+	<product>
+		<title>Straight tweezers  PROF (black/gold)</title>
+		<sku>000022373</sku>
+		<quantity>29</quantity>
+		<price>
+			<usd>17</usd>
+			<eur>15</eur>
+			<pln>67</pln>
+		</price>
+	</product>
+	<product>
+		<title>Tablet 8-13 (print)</title>
+		<sku>000029937</sku>
+		<quantity>50</quantity>
+		<price>
+			<usd>6.1</usd>
+			<eur>5.8</eur>
+			<pln>17</pln>
+		</price>
+	</product>
+	<product>
+		<title>Tablet 8-13 with hole circle</title>
+		<sku>000029938</sku>
+		<quantity>14</quantity>
+		<price>
+			<usd>7.6</usd>
+			<eur>7.3</eur>
+			<pln>22</pln>
+		</price>
+	</product>
+	<product>
+		<title>Tablet on the hand 7 * 7 with an elastic band</title>
+		<sku>000029939</sku>
+		<quantity>144</quantity>
+		<price>
+			<usd>8</usd>
+			<eur>7.6</eur>
+			<pln>22</pln>
+		</price>
+	</product>
+	<product>
+		<title>Pillow under the head</title>
+		<sku>000029934</sku>
+		<quantity>1</quantity>
+		<price>
+			<usd>48.5</usd>
+			<eur>46.3</eur>
+			<pln>132</pln>
+		</price>
+	</product>
+	<product>
+		<title>Pillow under your feet</title>
+		<sku>000029935</sku>
+		<quantity>2</quantity>
+		<price>
+			<usd>48.5</usd>
+			<eur>46.3</eur>
+			<pln>170</pln>
+		</price>
+	</product>
+	<product>
+		<title>Primer</title>
+		<sku>000016599</sku>
+		<quantity>101</quantity>
+		<price>
+			<usd>13</usd>
+			<eur>12</eur>
+			<pln>42</pln>
+		</price>
+	</product>
+	<product>
+		<title>Eyelash extension glue "Houston" </title>
+		<variations>
+			<item>
+				<attributes>
+					<volume>5 ml</volume>
+				</attributes>
+				<sku>000016596</sku>
+				<quantity>9</quantity>
+				<price>
+					<usd>30</usd>
+					<eur>27</eur>
+					<pln>62</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<volume>3 ml</volume>
+				</attributes>
+				<sku>000018298</sku>
+				<quantity>8</quantity>
+				<price>
+					<usd>20</usd>
+					<eur>18</eur>
+					<pln>45</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Eyelash extension glue "Kyoto" </title>
+		<variations>
+			<item>
+				<attributes>
+					<volume>3 ml</volume>
+				</attributes>
+				<sku>000036305</sku>
+				<quantity>41</quantity>
+				<price>
+					<usd>28</usd>
+					<eur>25</eur>
+					<pln>68</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Eyelash extension glue "Melbourne" </title>
+		<variations>
+			<item>
+				<attributes>
+					<volume>3 ml</volume>
+				</attributes>
+				<sku>000020472</sku>
+				<quantity>4</quantity>
+				<price>
+					<usd>20</usd>
+					<eur>18</eur>
+					<pln>45</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Eyelash extension glue "Sydney"</title>
+		<variations>
+			<item>
+				<attributes>
+					<volume>5 ml</volume>
+				</attributes>
+				<sku>000016020</sku>
+				<quantity>9</quantity>
+				<price>
+					<usd>30</usd>
+					<eur>27</eur>
+					<pln>76</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<volume>3 ml</volume>
+				</attributes>
+				<sku>000018297</sku>
+				<quantity>2</quantity>
+				<price>
+					<usd>20</usd>
+					<eur>18</eur>
+					<pln>48</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Eyelash extension glue «Barcelona»</title>
+		<variations>
+			<item>
+				<attributes>
+					<volume>5 ml</volume>
+				</attributes>
+				<sku>000020639</sku>
+				<quantity>8</quantity>
+				<price>
+					<usd>38</usd>
+					<eur>33</eur>
+					<pln>92</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<volume>3 ml</volume>
+				</attributes>
+				<sku>000026279</sku>
+				<quantity>12</quantity>
+				<price>
+					<usd>24</usd>
+					<eur>21</eur>
+					<pln>60</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Eyelash extension glue "Fiji" </title>
+		<variations>
+			<item>
+				<attributes>
+					<volume>3 ml</volume>
+				</attributes>
+				<sku>000026282</sku>
+				<quantity>43</quantity>
+				<price>
+					<usd>27</usd>
+					<eur>24</eur>
+					<pln>67</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<volume>5 ml</volume>
+				</attributes>
+				<sku>000026283</sku>
+				<quantity>90</quantity>
+				<price>
+					<usd>43</usd>
+					<eur>38</eur>
+					<pln>102</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Eyelash extension glue "Madrid" </title>
+		<variations>
+			<item>
+				<attributes>
+					<volume>3 ml</volume>
+				</attributes>
+				<sku>000018296</sku>
+				<quantity>9</quantity>
+				<price>
+					<usd>20</usd>
+					<eur>18</eur>
+					<pln>48</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<volume>5 ml</volume>
+				</attributes>
+				<sku>000017651</sku>
+				<quantity>17</quantity>
+				<price>
+					<usd>30</usd>
+					<eur>27</eur>
+					<pln>76</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Eyelash extension glue "Milan" </title>
+		<variations>
+			<item>
+				<attributes>
+					<volume>5 ml</volume>
+				</attributes>
+				<sku>000016023</sku>
+				<quantity>22</quantity>
+				<price>
+					<usd>30</usd>
+					<eur>27</eur>
+					<pln>76</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<volume>3 ml</volume>
+				</attributes>
+				<sku>000018295</sku>
+				<quantity>25</quantity>
+				<price>
+					<usd>20</usd>
+					<eur>18</eur>
+					<pln>48</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Eyelash extension glue "Monaco"</title>
+		<variations>
+			<item>
+				<attributes>
+					<volume>5 ml</volume>
+				</attributes>
+				<sku>000018284</sku>
+				<quantity>47</quantity>
+				<price>
+					<usd>38</usd>
+					<eur>33</eur>
+					<pln>92</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<volume>3 ml</volume>
+				</attributes>
+				<sku>000018294</sku>
+				<quantity>20</quantity>
+				<price>
+					<usd>24</usd>
+					<eur>21</eur>
+					<pln>60</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Eyelash extension glue "Valencia" </title>
+		<variations>
+			<item>
+				<attributes>
+					<volume>5 ml</volume>
+				</attributes>
+				<sku>000020638</sku>
+				<quantity>34</quantity>
+				<price>
+					<usd>38</usd>
+					<eur>33</eur>
+					<pln>92</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<volume>3 ml</volume>
+				</attributes>
+				<sku>000026280</sku>
+				<quantity>11</quantity>
+				<price>
+					<usd>24</usd>
+					<eur>21</eur>
+					<pln>60</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Dark chocolate lashes one size</title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >7</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000022913</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >14</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000022903</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >13</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000022902</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >9</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000022897</sku>
+				<quantity>30</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >12</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000022901</sku>
+				<quantity>20</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >11</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000022900</sku>
+				<quantity>20</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >8</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000022899</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >10</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000022898</sku>
+				<quantity>20</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Dark chocolate lashes one size</title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >13</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000022909</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >12</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000022908</sku>
+				<quantity>20</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >7</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000032828</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >11</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000022907</sku>
+				<quantity>20</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >8</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000022904</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >14</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000045831</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >10</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000022906</sku>
+				<quantity>20</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >9</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000022905</sku>
+				<quantity>30</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Dark chocolate lashes one size</title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >M</curl >
+					<length >14</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000022921</sku>
+				<quantity>1</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >M</curl >
+					<length >7</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000022914</sku>
+				<quantity>1</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >M</curl >
+					<length >8</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000022915</sku>
+				<quantity>1</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >M</curl >
+					<length >9</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000022916</sku>
+				<quantity>1</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >M</curl >
+					<length >13</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000022920</sku>
+				<quantity>1</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >M</curl >
+					<length >10</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000022917</sku>
+				<quantity>1</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >M</curl >
+					<length >11</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000022918</sku>
+				<quantity>1</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >M</curl >
+					<length >12</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000022919</sku>
+				<quantity>1</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Dark chocolate lashes one size</title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >M</curl >
+					<length >13</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000022927</sku>
+				<quantity>1</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >M</curl >
+					<length >7</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000036934</sku>
+				<quantity>1</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >M</curl >
+					<length >12</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000022926</sku>
+				<quantity>1</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >M</curl >
+					<length >11</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000022925</sku>
+				<quantity>1</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >M</curl >
+					<length >10</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000022924</sku>
+				<quantity>1</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >M</curl >
+					<length >9</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000022923</sku>
+				<quantity>1</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >M</curl >
+					<length >8</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000022922</sku>
+				<quantity>1</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Two tone lashes Green</title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >6-13</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000037540</sku>
+				<quantity>9</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >6-13</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000037543</sku>
+				<quantity>9</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Two tone lashes Blue</title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >6-13</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000037546</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >6-13</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000037544</sku>
+				<quantity>8</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Two tone lashes Blue</title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >6-13</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000023815</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >6-13</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000023814</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Two tone lashes Violet</title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >6-13</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000037557</sku>
+				<quantity>9</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >6-13</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000037558</sku>
+				<quantity>8</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Two tone lashes Violet</title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >6-13</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000023817</sku>
+				<quantity>9</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >6-13</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000023816</sku>
+				<quantity>9</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Two tone lashes White</title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >5-8</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000023824</sku>
+				<quantity>1</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >6-13</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000023827</sku>
+				<quantity>1</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >6-13</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000023822</sku>
+				<quantity>9</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >6-13</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000023821</sku>
+				<quantity>8</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Dark chocolate lashes mix</title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >B</curl >
+					<length >6-13</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000022463</sku>
+				<quantity>18</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >B</curl >
+					<length >5-8</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000025176</sku>
+				<quantity>17</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Dark chocolate lashes mix</title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >B</curl >
+					<length >5-8</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000027068</sku>
+				<quantity>20</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >B</curl >
+					<length >6-13</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000022465</sku>
+				<quantity>20</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Dark chocolate lashes mix</title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >4-6</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000031538</sku>
+				<quantity>20</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >9-12</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000021492</sku>
+				<quantity>18</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >6-13</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000021493</sku>
+				<quantity>30</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >5-8</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000021494</sku>
+				<quantity>15</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Dark chocolate lashes mix</title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >4-6</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000031539</sku>
+				<quantity>20</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >9-12</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000021495</sku>
+				<quantity>20</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >6-13</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000021496</sku>
+				<quantity>37</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >5-8</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000021497</sku>
+				<quantity>20</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Dark chocolate lashes mix</title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >9-12</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000020848</sku>
+				<quantity>18</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >5-8</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000020847</sku>
+				<quantity>19</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >6-13</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000020849</sku>
+				<quantity>24</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Dark chocolate lashes mix</title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >6-13</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000020850</sku>
+				<quantity>34</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >9-12</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000020852</sku>
+				<quantity>20</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >5-8</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000020851</sku>
+				<quantity>20</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Dark chocolate lashes mix</title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >9-12</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000020870</sku>
+				<quantity>17</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >5-8</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000020869</sku>
+				<quantity>16</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >6-13</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000020868</sku>
+				<quantity>36</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Dark chocolate lashes mix</title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >9-12</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000020871</sku>
+				<quantity>20</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >6-13</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000020872</sku>
+				<quantity>40</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >5-8</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000020873</sku>
+				<quantity>20</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Dark chocolate lashes mix</title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >M</curl >
+					<length >6-13</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000020881</sku>
+				<quantity>29</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Dark chocolate lashes mix</title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >M</curl >
+					<length >6-13</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000020884</sku>
+				<quantity>29</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Dark chocolate lashes mix</title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >V</curl >
+					<length >6-13</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000023805</sku>
+				<quantity>27</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Dark chocolate lashes mix</title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >V</curl >
+					<length >6-13</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000025654</sku>
+				<quantity>29</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Dark chocolate lashes one size</title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >B</curl >
+					<length >8</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000023851</sku>
+				<quantity>1</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >B</curl >
+					<length >7</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000023853</sku>
+				<quantity>1</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >B</curl >
+					<length >9</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000023854</sku>
+				<quantity>1</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >B</curl >
+					<length >10</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000023855</sku>
+				<quantity>1</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >B</curl >
+					<length >12</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000023857</sku>
+				<quantity>1</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >B</curl >
+					<length >11</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000023856</sku>
+				<quantity>1</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Dark chocolate lashes one size</title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >B</curl >
+					<length >13</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000023866</sku>
+				<quantity>1</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >B</curl >
+					<length >9</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000023862</sku>
+				<quantity>1</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >B</curl >
+					<length >7</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000023860</sku>
+				<quantity>1</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >B</curl >
+					<length >12</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000023865</sku>
+				<quantity>1</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >B</curl >
+					<length >10</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000023863</sku>
+				<quantity>1</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >B</curl >
+					<length >11</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000023864</sku>
+				<quantity>1</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >B</curl >
+					<length >8</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000023861</sku>
+				<quantity>1</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Dark chocolate lashes one size</title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >12</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000021878</sku>
+				<quantity>17</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >8</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000021879</sku>
+				<quantity>7</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >14</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000045829</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >11</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000021877</sku>
+				<quantity>16</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >13</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000032826</sku>
+				<quantity>7</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >10</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000021876</sku>
+				<quantity>14</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >7</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000023871</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >9</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000021875</sku>
+				<quantity>25</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Dark chocolate lashes one size</title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >13</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000032827</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >7</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000023872</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >12</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000021884</sku>
+				<quantity>20</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >11</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000021883</sku>
+				<quantity>20</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >10</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000021882</sku>
+				<quantity>20</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >9</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000021881</sku>
+				<quantity>30</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >8</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000021880</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >14</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000045830</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Dark chocolate lashes one size</title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >14</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000045827</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >12</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000021905</sku>
+				<quantity>20</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >11</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000021904</sku>
+				<quantity>19</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >7</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000023867</sku>
+				<quantity>18</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >10</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000021903</sku>
+				<quantity>19</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >9</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000021902</sku>
+				<quantity>25</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >13</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000032823</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >8</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000021901</sku>
+				<quantity>19</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >6</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000032822</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Dark chocolate lashes one size</title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >14</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000045828</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >7</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000023868</sku>
+				<quantity>20</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >13</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000032825</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >6</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000032824</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >12</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000021906</sku>
+				<quantity>19</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >8</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000021910</sku>
+				<quantity>20</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >9</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000021909</sku>
+				<quantity>30</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >11</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000021907</sku>
+				<quantity>19</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >10</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000021908</sku>
+				<quantity>20</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Color lashes mix C 0,07 mm 6-13 Blue</title>
+		<sku>000037563</sku>
+		<quantity>16</quantity>
+		<price>
+			<usd>21.9</usd>
+			<eur>20.9</eur>
+			<pln>90</pln>
+		</price>
+	</product>
+	<product>
+		<title>Color lashes mix C 0,07 mm 6-13 Blue Neon</title>
+		<sku>000037573</sku>
+		<quantity>17</quantity>
+		<price>
+			<usd>21.9</usd>
+			<eur>20.9</eur>
+			<pln>90</pln>
+		</price>
+	</product>
+	<product>
+		<title>Color lashes mix C 0,07 mm 6-13 Green</title>
+		<sku>000037564</sku>
+		<quantity>9</quantity>
+		<price>
+			<usd>21.9</usd>
+			<eur>20.9</eur>
+			<pln>90</pln>
+		</price>
+	</product>
+	<product>
+		<title>Color lashes mix C 0,07 mm 6-13 Green Neon</title>
+		<sku>000037572</sku>
+		<quantity>8</quantity>
+		<price>
+			<usd>21.9</usd>
+			<eur>20.9</eur>
+			<pln>90</pln>
+		</price>
+	</product>
+	<product>
+		<title>Color lashes mix C 0,07 mm 6-13 H.Pink</title>
+		<sku>000037562</sku>
+		<quantity>20</quantity>
+		<price>
+			<usd>21.9</usd>
+			<eur>20.9</eur>
+			<pln>90</pln>
+		</price>
+	</product>
+	<product>
+		<title>Color lashes mix C 0,07 mm 6-13 O.Blue</title>
+		<sku>000037566</sku>
+		<quantity>19</quantity>
+		<price>
+			<usd>21.9</usd>
+			<eur>20.9</eur>
+			<pln>90</pln>
+		</price>
+	</product>
+	<product>
+		<title>Color lashes mix C 0,07 mm 6-13 Orange Neon</title>
+		<sku>000037570</sku>
+		<quantity>20</quantity>
+		<price>
+			<usd>21.9</usd>
+			<eur>20.9</eur>
+			<pln>90</pln>
+		</price>
+	</product>
+	<product>
+		<title>Color lashes mix C 0,07 mm 6-13 Pink Neon</title>
+		<sku>000037571</sku>
+		<quantity>19</quantity>
+		<price>
+			<usd>21.9</usd>
+			<eur>20.9</eur>
+			<pln>90</pln>
+		</price>
+	</product>
+	<product>
+		<title>Color lashes mix C 0,07 mm 6-13 Voilet</title>
+		<sku>000037565</sku>
+		<quantity>19</quantity>
+		<price>
+			<usd>21.9</usd>
+			<eur>20.9</eur>
+			<pln>90</pln>
+		</price>
+	</product>
+	<product>
+		<title>Color lashes mix C 0,07 mm 6-13 Violet Neon</title>
+		<sku>000037569</sku>
+		<quantity>20</quantity>
+		<price>
+			<usd>21.9</usd>
+			<eur>20.9</eur>
+			<pln>90</pln>
+		</price>
+	</product>
+	<product>
+		<title>Color lashes mix C 0,07 mm 6-13 Yellow</title>
+		<sku>000037561</sku>
+		<quantity>19</quantity>
+		<price>
+			<usd>21.9</usd>
+			<eur>20.9</eur>
+			<pln>90</pln>
+		</price>
+	</product>
+	<product>
+		<title>Color lashes mix D 0,07 mm 6-13 Blue</title>
+		<sku>000023834</sku>
+		<quantity>5</quantity>
+		<price>
+			<usd>21.9</usd>
+			<eur>20.9</eur>
+			<pln>90</pln>
+		</price>
+	</product>
+	<product>
+		<title>Color lashes mix D 0,07 mm 6-13 H.Pink</title>
+		<sku>000023831</sku>
+		<quantity>6</quantity>
+		<price>
+			<usd>21.9</usd>
+			<eur>20.9</eur>
+			<pln>90</pln>
+		</price>
+	</product>
+	<product>
+		<title>Color lashes mix D 0,07 mm 6-13 Violet</title>
+		<sku>000023838</sku>
+		<quantity>6</quantity>
+		<price>
+			<usd>21.9</usd>
+			<eur>20.9</eur>
+			<pln>90</pln>
+		</price>
+	</product>
+	<product>
+		<title>Color lashes mix D 0,07 mm 6-13 Yellow</title>
+		<sku>000023830</sku>
+		<quantity>20</quantity>
+		<price>
+			<usd>21.9</usd>
+			<eur>20.9</eur>
+			<pln>90</pln>
+		</price>
+	</product>
+	<product>
+		<title>Color lashes mix L 0,07 mm 6-13 Blue</title>
+		<sku>000023833</sku>
+		<quantity>10</quantity>
+		<price>
+			<usd>21.9</usd>
+			<eur>20.9</eur>
+			<pln>90</pln>
+		</price>
+	</product>
+	<product>
+		<title>Color lashes mix L 0,07 mm 6-13 Green</title>
+		<sku>000023836</sku>
+		<quantity>10</quantity>
+		<price>
+			<usd>21.9</usd>
+			<eur>20.9</eur>
+			<pln>90</pln>
+		</price>
+	</product>
+	<product>
+		<title>Color lashes mix L 0,07 mm 6-13 H.Pink</title>
+		<sku>000023832</sku>
+		<quantity>10</quantity>
+		<price>
+			<usd>21.9</usd>
+			<eur>20.9</eur>
+			<pln>90</pln>
+		</price>
+	</product>
+	<product>
+		<title>Color lashes mix L 0,07 mm 6-13 L.Brown</title>
+		<sku>000023848</sku>
+		<quantity>9</quantity>
+		<price>
+			<usd>21.9</usd>
+			<eur>20.9</eur>
+			<pln>90</pln>
+		</price>
+	</product>
+	<product>
+		<title>Color lashes mix L 0,07 mm 6-13 L.Violet</title>
+		<sku>000023840</sku>
+		<quantity>10</quantity>
+		<price>
+			<usd>21.9</usd>
+			<eur>20.9</eur>
+			<pln>90</pln>
+		</price>
+	</product>
+	<product>
+		<title>Color lashes mix L 0,07 mm 6-13 O.Blue</title>
+		<sku>000023841</sku>
+		<quantity>10</quantity>
+		<price>
+			<usd>21.9</usd>
+			<eur>20.9</eur>
+			<pln>90</pln>
+		</price>
+	</product>
+	<product>
+		<title>Color lashes mix L 0,07 mm 6-13 S.Blue</title>
+		<sku>000023844</sku>
+		<quantity>10</quantity>
+		<price>
+			<usd>21.9</usd>
+			<eur>20.9</eur>
+			<pln>90</pln>
+		</price>
+	</product>
+	<product>
+		<title>Color lashes mix L 0,07 mm 6-13 Silver</title>
+		<sku>000023849</sku>
+		<quantity>9</quantity>
+		<price>
+			<usd>21.9</usd>
+			<eur>20.9</eur>
+			<pln>90</pln>
+		</price>
+	</product>
+	<product>
+		<title>Color lashes mix L 0,07 mm 6-13 Violet</title>
+		<sku>000023837</sku>
+		<quantity>10</quantity>
+		<price>
+			<usd>21.9</usd>
+			<eur>20.9</eur>
+			<pln>90</pln>
+		</price>
+	</product>
+	<product>
+		<title>Color lashes mix L 0,07 mm 6-13 Y.Green</title>
+		<sku>000023845</sku>
+		<quantity>10</quantity>
+		<price>
+			<usd>21.9</usd>
+			<eur>20.9</eur>
+			<pln>90</pln>
+		</price>
+	</product>
+	<product>
+		<title>Color lashes mix L 0,07 mm 6-13 Yellow</title>
+		<sku>000023829</sku>
+		<quantity>10</quantity>
+		<price>
+			<usd>21.9</usd>
+			<eur>20.9</eur>
+			<pln>90</pln>
+		</price>
+	</product>
+	<product>
+		<title>Color lashes mix C 0,07 mm 6-13 L.Violet</title>
+		<sku>000045833</sku>
+		<quantity>8</quantity>
+		<price>
+			<usd>21.9</usd>
+			<eur>20.9</eur>
+			<pln>90</pln>
+		</price>
+	</product>
+	<product>
+		<title>Color lashes mix C 0,07 mm 6-13 Red Neon</title>
+		<sku>000045836</sku>
+		<quantity>8</quantity>
+		<price>
+			<usd>21.9</usd>
+			<eur>20.9</eur>
+			<pln>90</pln>
+		</price>
+	</product>
+	<product>
+		<title>Color lashes mix C 0,07 mm 6-13 S.Blue</title>
+		<sku>000045834</sku>
+		<quantity>9</quantity>
+		<price>
+			<usd>21.9</usd>
+			<eur>20.9</eur>
+			<pln>90</pln>
+		</price>
+	</product>
+	<product>
+		<title>Color lashes mix C 0,07 mm 6-13 Silver</title>
+		<sku>000045832</sku>
+		<quantity>17</quantity>
+		<price>
+			<usd>21.9</usd>
+			<eur>20.9</eur>
+			<pln>90</pln>
+		</price>
+	</product>
+	<product>
+		<title>Color lashes mix C 0,07 mm 6-13 Green</title>
+		<sku>000045835</sku>
+		<quantity>9</quantity>
+		<price>
+			<usd>21.9</usd>
+			<eur>20.9</eur>
+			<pln>90</pln>
+		</price>
+	</product>
+	<product>
+		<title>Black lashes mix </title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >9-12</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000015936</sku>
+				<quantity>98</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >5-8</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000015996</sku>
+				<quantity>43</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >4-6</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000043814</sku>
+				<quantity>49</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >6-13</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000020986</sku>
+				<quantity>95</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Black lashes mix </title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >9-12</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000015942</sku>
+				<quantity>96</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >4-6</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000043815</sku>
+				<quantity>9</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >5-8</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000016002</sku>
+				<quantity>49</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >6-13</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000020987</sku>
+				<quantity>114</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Black lashes mix </title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >5-8</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000020806</sku>
+				<quantity>26</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >9-12</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000020807</sku>
+				<quantity>93</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >4-6</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000043817</sku>
+				<quantity>5</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >6-13</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000020805</sku>
+				<quantity>141</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Black lashes mix </title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >5-8</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000020808</sku>
+				<quantity>24</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >9-12</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000020809</sku>
+				<quantity>98</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >4-6</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000043816</sku>
+				<quantity>15</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >6-13</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000020804</sku>
+				<quantity>139</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Black lashes mix </title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >L+</curl >
+					<length >6-13</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000020813</sku>
+				<quantity>17</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >L+</curl >
+					<length >9-12</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000020815</sku>
+				<quantity>20</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Black lashes mix </title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >L+</curl >
+					<length >9-12</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000020810</sku>
+				<quantity>20</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >L+</curl >
+					<length >6-13</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000020812</sku>
+				<quantity>20</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Black lashes mix </title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >L90</curl >
+					<length >9-12</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000022064</sku>
+				<quantity>20</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >L90</curl >
+					<length >6-13</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000021919</sku>
+				<quantity>15</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Black lashes mix </title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >L90</curl >
+					<length >9-12</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000022454</sku>
+				<quantity>19</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >L90</curl >
+					<length >6-13</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000022455</sku>
+				<quantity>18</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Black lashes mix </title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >M</curl >
+					<length >6-13</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000020799</sku>
+				<quantity>25</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >M</curl >
+					<length >9-12</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000020796</sku>
+				<quantity>23</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >M</curl >
+					<length >5-8</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000020794</sku>
+				<quantity>20</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Black lashes mix </title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >M</curl >
+					<length >6-13</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000020798</sku>
+				<quantity>27</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >M</curl >
+					<length >9-12</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000020797</sku>
+				<quantity>27</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >M</curl >
+					<length >5-8</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000020795</sku>
+				<quantity>19</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Black lashes mix </title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >V</curl >
+					<length >5-8</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000034403</sku>
+				<quantity>17</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >V</curl >
+					<length >9-12</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000025173</sku>
+				<quantity>26</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >V</curl >
+					<length >6-13</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000023782</sku>
+				<quantity>36</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Black lashes mix </title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >V</curl >
+					<length >9-12</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000025175</sku>
+				<quantity>30</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >V</curl >
+					<length >5-8</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000034404</sku>
+				<quantity>20</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >V</curl >
+					<length >6-13</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000025174</sku>
+				<quantity>37</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Black lashes mix </title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >B</curl >
+					<length >5-8</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000021914</sku>
+				<quantity>4</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >B</curl >
+					<length >6-13</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000022456</sku>
+				<quantity>13</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Black lashes mix </title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >B</curl >
+					<length >6-13</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000022457</sku>
+				<quantity>5</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >B</curl >
+					<length >5-8</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000021917</sku>
+				<quantity>7</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Black lashes mix </title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >6-13</length >
+					<thickness>0.05</thickness>
+				</attributes>
+				<sku>000022873</sku>
+				<quantity>15</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Black lashes mix </title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >6-13</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000020982</sku>
+				<quantity>103</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >5-8</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000015967</sku>
+				<quantity>59</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >4-6</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000031527</sku>
+				<quantity>36</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >9-12</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000015922</sku>
+				<quantity>89</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Black lashes mix </title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >6-13</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000020983</sku>
+				<quantity>124</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >9-12</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000015928</sku>
+				<quantity>91</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >4-6</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000031533</sku>
+				<quantity>39</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >5-8</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000015973</sku>
+				<quantity>62</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Black lashes mix </title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >6-13</length >
+					<thickness>0.12</thickness>
+				</attributes>
+				<sku>000024476</sku>
+				<quantity>36</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Black lashes mix </title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >CC</curl >
+					<length >6-13</length >
+					<thickness>0.05</thickness>
+				</attributes>
+				<sku>000022875</sku>
+				<quantity>7</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Black lashes mix </title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >CC</curl >
+					<length >9-12</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000015897</sku>
+				<quantity>6</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >CC</curl >
+					<length >6-13</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000020984</sku>
+				<quantity>4</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Black lashes mix </title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >CC</curl >
+					<length >9-12</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000015903</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >CC</curl >
+					<length >6-13</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000020985</sku>
+				<quantity>5</quantity>
+				<price>
+					<usd>21.9</usd>
+					<eur>20.9</eur>
+					<pln>90</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Black lashes one size</title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >B</curl >
+					<length >12</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000023662</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >B</curl >
+					<length >11</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000023661</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >B</curl >
+					<length >13</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000023663</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >B</curl >
+					<length >10</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000023660</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >B</curl >
+					<length >9</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000023659</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >B</curl >
+					<length >7</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000023656</sku>
+				<quantity>9</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >B</curl >
+					<length >8</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000023658</sku>
+				<quantity>14</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >B</curl >
+					<length >6</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000034401</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Black lashes one size</title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >B</curl >
+					<length >7</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000023665</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >B</curl >
+					<length >13</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000023671</sku>
+				<quantity>8</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >B</curl >
+					<length >12</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000023670</sku>
+				<quantity>7</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >B</curl >
+					<length >8</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000023666</sku>
+				<quantity>5</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >B</curl >
+					<length >10</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000023668</sku>
+				<quantity>9</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >B</curl >
+					<length >6</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000034402</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >B</curl >
+					<length >11</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000023669</sku>
+				<quantity>5</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >B</curl >
+					<length >9</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000023667</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Black lashes one size</title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >16</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000016388</sku>
+				<quantity>16</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >15</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000015856</sku>
+				<quantity>16</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >14</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000015855</sku>
+				<quantity>20</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >13</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000015852</sku>
+				<quantity>38</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >12</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000015851</sku>
+				<quantity>50</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >11</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000015850</sku>
+				<quantity>47</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >10</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000015849</sku>
+				<quantity>43</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >9</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000015848</sku>
+				<quantity>49</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >8</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000015846</sku>
+				<quantity>42</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >7</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000015845</sku>
+				<quantity>6</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Black lashes one size</title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >12</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000015863</sku>
+				<quantity>52</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >13</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000015864</sku>
+				<quantity>47</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >10</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000015861</sku>
+				<quantity>61</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >9</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000015860</sku>
+				<quantity>71</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >11</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000015862</sku>
+				<quantity>64</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >8</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000015859</sku>
+				<quantity>19</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >7</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000015858</sku>
+				<quantity>15</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >14</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000015866</sku>
+				<quantity>34</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >16</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000015868</sku>
+				<quantity>18</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >D</curl >
+					<length >15</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000015867</sku>
+				<quantity>16</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Black lashes one size</title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >16</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000043819</sku>
+				<quantity>19</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >15</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000043818</sku>
+				<quantity>8</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >14</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000020756</sku>
+				<quantity>17</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >13</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000020755</sku>
+				<quantity>57</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >12</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000020754</sku>
+				<quantity>80</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >11</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000020753</sku>
+				<quantity>77</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >10</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000020752</sku>
+				<quantity>77</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >7</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000020749</sku>
+				<quantity>19</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >9</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000020751</sku>
+				<quantity>88</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >8</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000020750</sku>
+				<quantity>58</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Black lashes one size</title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >15</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000043820</sku>
+				<quantity>9</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >14</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000020773</sku>
+				<quantity>8</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >13</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000020772</sku>
+				<quantity>70</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >12</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000020771</sku>
+				<quantity>76</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >11</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000020770</sku>
+				<quantity>75</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >10</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000020769</sku>
+				<quantity>76</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >9</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000020768</sku>
+				<quantity>89</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >8</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000020767</sku>
+				<quantity>57</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >L</curl >
+					<length >7</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000020766</sku>
+				<quantity>19</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Black lashes one size</title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >M</curl >
+					<length >15</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000025170</sku>
+				<quantity>1</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >M</curl >
+					<length >13</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000020746</sku>
+				<quantity>8</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >M</curl >
+					<length >12</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000020745</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >M</curl >
+					<length >14</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000020747</sku>
+				<quantity>7</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >M</curl >
+					<length >7</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000020748</sku>
+				<quantity>15</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >M</curl >
+					<length >11</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000020744</sku>
+				<quantity>8</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >M</curl >
+					<length >10</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000020743</sku>
+				<quantity>3</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >M</curl >
+					<length >9</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000020742</sku>
+				<quantity>9</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >M</curl >
+					<length >8</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000020741</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Black lashes one size</title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >M</curl >
+					<length >13</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000020787</sku>
+				<quantity>8</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >M</curl >
+					<length >14</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000020788</sku>
+				<quantity>15</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >M</curl >
+					<length >12</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000020786</sku>
+				<quantity>8</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >M</curl >
+					<length >11</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000020785</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >M</curl >
+					<length >10</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000020784</sku>
+				<quantity>9</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >M</curl >
+					<length >9</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000020783</sku>
+				<quantity>9</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >M</curl >
+					<length >7</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000020781</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >M</curl >
+					<length >8</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000020782</sku>
+				<quantity>8</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >M</curl >
+					<length >15</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000025171</sku>
+				<quantity>1</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Black lashes one size</title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >V</curl >
+					<length >14</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000025653</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >V</curl >
+					<length >13</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000025652</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >V</curl >
+					<length >12</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000025651</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >V</curl >
+					<length >11</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000025650</sku>
+				<quantity>9</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >V</curl >
+					<length >10</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000025649</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >V</curl >
+					<length >9</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000025648</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >V</curl >
+					<length >8</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000025647</sku>
+				<quantity>7</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >V</curl >
+					<length >7</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000025646</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Black lashes one size</title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >V</curl >
+					<length >14</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000025644</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >V</curl >
+					<length >10</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000025168</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >V</curl >
+					<length >13</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000025643</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >V</curl >
+					<length >12</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000025642</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >V</curl >
+					<length >8</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000025641</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >V</curl >
+					<length >7</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000025640</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >V</curl >
+					<length >9</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000025167</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >V</curl >
+					<length >11</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000025169</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Black lashes one size</title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >16</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000022453</sku>
+				<quantity>19</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >6</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000028485</sku>
+				<quantity>3</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >15</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000016387</sku>
+				<quantity>18</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >14</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000015777</sku>
+				<quantity>25</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >13</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000015776</sku>
+				<quantity>52</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >12</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000015775</sku>
+				<quantity>68</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >11</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000015774</sku>
+				<quantity>70</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >10</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000015772</sku>
+				<quantity>77</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >9</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000015771</sku>
+				<quantity>81</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >8</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000015770</sku>
+				<quantity>23</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >7</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000015768</sku>
+				<quantity>14</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Black lashes one size</title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >16</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000034811</sku>
+				<quantity>18</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >6</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000028486</sku>
+				<quantity>5</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >15</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000015789</sku>
+				<quantity>17</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >14</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000015787</sku>
+				<quantity>34</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >13</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000015786</sku>
+				<quantity>52</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >7</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000015780</sku>
+				<quantity>14</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >12</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000015785</sku>
+				<quantity>60</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >8</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000015781</sku>
+				<quantity>41</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >9</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000015782</sku>
+				<quantity>85</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >11</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000015784</sku>
+				<quantity>66</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >C</curl >
+					<length >10</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000015783</sku>
+				<quantity>79</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Black lashes one size</title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >CC</curl >
+					<length >8</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000015711</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >CC</curl >
+					<length >7</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000015710</sku>
+				<quantity>1</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >CC</curl >
+					<length >9</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000015712</sku>
+				<quantity>8</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >CC</curl >
+					<length >10</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000015713</sku>
+				<quantity>8</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >CC</curl >
+					<length >11</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000015714</sku>
+				<quantity>9</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >CC</curl >
+					<length >12</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000015715</sku>
+				<quantity>9</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >CC</curl >
+					<length >13</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000015716</sku>
+				<quantity>10</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >CC</curl >
+					<length >14</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000015717</sku>
+				<quantity>9</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >CC</curl >
+					<length >15</length >
+					<thickness>0.07</thickness>
+				</attributes>
+				<sku>000015718</sku>
+				<quantity>9</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Black lashes one size</title>
+		<variations>
+			<item>
+				<attributes>
+					<curl >CC</curl >
+					<length >9</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000015723</sku>
+				<quantity>8</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >CC</curl >
+					<length >13</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000015727</sku>
+				<quantity>8</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >CC</curl >
+					<length >12</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000015726</sku>
+				<quantity>9</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >CC</curl >
+					<length >10</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000015724</sku>
+				<quantity>7</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >CC</curl >
+					<length >11</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000015725</sku>
+				<quantity>8</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >CC</curl >
+					<length >8</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000015722</sku>
+				<quantity>8</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >CC</curl >
+					<length >14</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000015728</sku>
+				<quantity>9</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+			<item>
+				<attributes>
+					<curl >CC</curl >
+					<length >15</length >
+					<thickness>0.10</thickness>
+				</attributes>
+				<sku>000015729</sku>
+				<quantity>9</quantity>
+				<price>
+					<usd>19.9</usd>
+					<eur>18.9</eur>
+					<pln>85</pln>
+				</price>
+			</item>
+		</variations>
+	</product>
+	<product>
+		<title>Composition for eyelash lamination "Step №1" 0,5 g</title>
+		<sku>000025369</sku>
+		<quantity>4</quantity>
+		<price>
+			<usd>4</usd>
+			<eur>3.8</eur>
+			<pln>14</pln>
+		</price>
+	</product>
+	<product>
+		<title>Composition for eyelash lamination "Step №1" kit 5</title>
+		<sku>000025372</sku>
+		<quantity>21</quantity>
+		<price>
+			<usd>18</usd>
+			<eur>16</eur>
+			<pln>57</pln>
+		</price>
+	</product>
+	<product>
+		<title>Composition for eyelash lamination "Step №2" kit 5</title>
+		<sku>000025373</sku>
+		<quantity>22</quantity>
+		<price>
+			<usd>18</usd>
+			<eur>16</eur>
+			<pln>57</pln>
+		</price>
+	</product>
+	<product>
+		<title>Composition for eyelash lamination "Step №3" kit 5</title>
+		<sku>000025374</sku>
+		<quantity>1</quantity>
+		<price>
+			<usd>20</usd>
+			<eur>18</eur>
+			<pln>62</pln>
+		</price>
+	</product>
+	<product>
+		<title>Eyelash SERUM</title>
+		<sku>000024531</sku>
+		<quantity>44</quantity>
+		<price>
+			<usd>32</usd>
+			<eur>27</eur>
+			<pln>93</pln>
+		</price>
+	</product>
+	<product>
+		<title>Magnetic case for tweezers </title>
+		<sku>000018128</sku>
+		<quantity>14</quantity>
+		<price>
+			<usd>24</usd>
+			<eur>20</eur>
+			<pln>102</pln>
+		</price>
+	</product>
+	<product>
+		<title>Case for 2 tweezers </title>
+		<sku>000018129</sku>
+		<quantity>12</quantity>
+		<price>
+			<usd>6</usd>
+			<eur>5</eur>
+			<pln>34</pln>
+		</price>
+	</product>
+	<product>
+		<title>Lash Wash Shampoo 50 ml</title>
+		<sku>000017653</sku>
+		<quantity>3</quantity>
+		<price>
+			<usd>24</usd>
+			<eur>20</eur>
+			<pln>74</pln>
+		</price>
+	</product>
+</document>

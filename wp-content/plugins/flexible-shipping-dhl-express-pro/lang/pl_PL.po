@@ -1,0 +1,333 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DHL Express Live Rates PRO\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-24 01:50+0200\n"
+"PO-Revision-Date: 2022-08-24 01:50+0200\n"
+"Last-Translator: Sebastian Pisula <sebastian.pisula@gmail.com>\n"
+"Language-Team: Polish\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10 >= 2 && n%10<=4 &&(n"
+"%100<10||n%100 >= 20)? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: flexible-shipping-dhl-express-pro.php\n"
+"X-Poedit-SearchPath-0: src\n"
+"X-Poedit-SearchPath-1: flexible-shipping-dhl-express-pro.php\n"
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:32
+msgid "Cutoff Time"
+msgstr "Czas odcięcia"
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:34
+msgid ""
+"Cutoff Time is used to define what time you stop preparing orders same day. "
+"Cutoff time is only used if your lead time is set to zero."
+msgstr ""
+"Czas odcięcia służy do określenia godziny, po której przestajesz "
+"przygotowywać zamówienia tego samego dnia. Czas odcięcia jest używany tylko, "
+"gdy czas przygotowania jest ustawiony na 0."
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:37
+#: src/DhlExpressProShippingService/EstimatedDelivery/EstimatedDeliverySettingsDefinitionDecorator.php:40
+msgid "None"
+msgstr "Brak"
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:38
+msgid "1 AM"
+msgstr "1"
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:39
+msgid "2 AM"
+msgstr "2"
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:40
+msgid "3 AM"
+msgstr "3"
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:41
+msgid "4 AM"
+msgstr "4"
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:42
+msgid "5 AM"
+msgstr "5"
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:43
+msgid "6 AM"
+msgstr "6"
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:44
+msgid "7 AM"
+msgstr "7"
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:45
+msgid "8 AM"
+msgstr "8"
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:46
+msgid "9 AM"
+msgstr "9"
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:47
+msgid "10 AM"
+msgstr "10"
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:48
+msgid "11 AM"
+msgstr "11"
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:49
+msgid "12 PM"
+msgstr "12"
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:50
+msgid "1 PM"
+msgstr "13"
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:51
+msgid "2 PM"
+msgstr "14"
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:52
+msgid "3 PM"
+msgstr "15"
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:53
+msgid "4 PM"
+msgstr "16"
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:54
+msgid "5 PM"
+msgstr "17"
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:55
+msgid "6 PM"
+msgstr "18"
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:56
+msgid "7 PM"
+msgstr "19"
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:57
+msgid "8 PM"
+msgstr "20"
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:58
+msgid "9 PM"
+msgstr "21"
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:59
+msgid "10 PM"
+msgstr "22"
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:60
+msgid "11 PM"
+msgstr "23"
+
+#: src/DhlExpressProShippingService/DatesAndTimes/DatesAndTimesSettingsDefinitionDecorator.php:34
+msgid "Dates & Time"
+msgstr "Daty i czas"
+
+#: src/DhlExpressProShippingService/DatesAndTimes/DatesAndTimesSettingsDefinitionDecorator.php:35
+msgid "Manage services' dates information."
+msgstr "Zarządzaj ustawieniami dat i czasu dla serwisów."
+
+#: src/DhlExpressProShippingService/EstimatedDelivery/EstimatedDeliverySettingsDefinitionDecorator.php:36
+msgid "Estimated Delivery"
+msgstr "Szacowana dostawa"
+
+#: src/DhlExpressProShippingService/EstimatedDelivery/EstimatedDeliverySettingsDefinitionDecorator.php:44
+msgid "Show estimated days to delivery date"
+msgstr "Pokaż szacowaną liczbę dni do daty dostawy"
+
+#: src/DhlExpressProShippingService/EstimatedDelivery/EstimatedDeliverySettingsDefinitionDecorator.php:48
+msgid "Show estimated delivery date"
+msgstr "Pokaż szacowaną datę dostawy"
+
+#: src/DhlExpressProShippingService/EstimatedDelivery/EstimatedDeliverySettingsDefinitionDecorator.php:53
+msgid ""
+"You can show customers an estimated delivery date or time in transit. The "
+"information will be added to the service name in the checkout."
+msgstr ""
+"Możesz pokazać klientom szacowaną datę lub czas dostawy transportu. "
+"Informacje zostaną dodane do nazwy usługi na stronie zamówienia."
+
+#: src/DhlExpressProShippingService/Header/HeaderSettingsDefinitionDecorator.php:32
+msgid "Method Settings"
+msgstr "Ustawienia metody"
+
+#: src/DhlExpressProShippingService/Header/HeaderSettingsDefinitionDecorator.php:34
+msgid "Set how DHL Express services are displayed."
+msgstr "Ustaw jak serwisy DHL Express będą wyświetlane."
+
+#: src/DhlExpressProShippingService/LeadTime/LeadTimeSettingsDefinitionDecorator.php:32
+msgid "Lead Time"
+msgstr "Czas realizacji"
+
+#: src/DhlExpressProShippingService/LeadTime/LeadTimeSettingsDefinitionDecorator.php:35
+msgid ""
+"Lead Time is used to define how many days are required to prepare an order "
+"for shipment. The delivery date or time will be updated for the selected "
+"number of days."
+msgstr ""
+"Czas realizacji służy do ustalenia czasu na przygotowanie zamówienia do "
+"wysyłki. Data dostawy lub czas zostaną zaktualizowane o wybraną liczbę dni."
+
+#: src/DhlExpressProShippingService/MaximumTransitTime/MaximumTransitTimeSettingsDefinitionDecorator.php:32
+msgid "Maximum Time in Transit"
+msgstr "Czas graniczny"
+
+#: src/DhlExpressProShippingService/MaximumTransitTime/MaximumTransitTimeSettingsDefinitionDecorator.php:34
+msgid ""
+"Maximum Time in Transit is used to define the number of maximum days goods "
+"can be in transit. Only days in transit are counted. This is often used for "
+"perishable goods."
+msgstr ""
+"Czas graniczny służy do ustalenia maksymalnej liczby dni, w których produkty "
+"mogą być w transporcie. Tylko czas transportu zostanie uwzględniony. Ta "
+"opcja często ma zastosowanie dla produktów z krótkim terminem przydatności."
+
+#: src/DhlExpressProShippingService/ShippingMethodTypeDecorator.php:35
+msgid "Shipping Method Type"
+msgstr "Typ metody wysyłki"
+
+#: src/DhlExpressProShippingService/ShippingMethodTypeDecorator.php:38
+msgid "Standard shipping methods"
+msgstr "Standardowe metody wysyłki"
+
+#: src/DhlExpressProShippingService/ShippingMethodTypeDecorator.php:39
+msgid "Global shipping method"
+msgstr "Globalna metoda wysyłki"
+
+#: src/DhlExpressProShippingService/ShippingMethodTypeDecorator.php:43
+#, php-format
+msgid ""
+"Select the %1$sStandard shipping methods%2$s if you want to add the 'DHL "
+"Express Live Rates' shipping method within specific shipping zones or choose "
+"the %1$sGlobal shipping method%2$s to enable the DHL Express Live Rates for "
+"all the shipping zones in your store at once."
+msgstr ""
+"Wybierz opcję %1$sStandardowe metody wysyłki%2$s, jeżeli chcesz dodać metodę "
+"„DHL Express Stawki live” tylko w określonych strefach wysyłkowych lub opcję "
+"%1$sGlobalna metoda wysyłki%2$s, aby udostępnić stawki live DHL Express "
+"jednocześnie dla wszystkich stref wysyłkowych w Twoim sklepie."
+
+#: src/FreeDisabler/DhlExpressFreeDisabler.php:56
+#, php-format
+msgid ""
+"\"DHL Express for WooCommerce\" plugin can be removed now since the PRO "
+"version took over its functionalities.%1$s%2$sClick here%3$s to deactivate "
+"\"DHL Express for WooCommerce\" plugin."
+msgstr ""
+"Wtyczka \"DHL Express dla WooCommerce\" może zostać usunięta - jej "
+"funkcjonalność została zastąpiona wtyczką PRO. %1$s%2$sKliknij tutaj%3$s, "
+"aby wyłączyć wtyczkę \"DHL Express dla WooCommerce\"."
+
+#: src/Plugin.php:146
+msgid "Service Code"
+msgstr "Kod usługi"
+
+#. Plugin Name of the plugin/theme
+#: src/Plugin.php:220
+msgid "DHL Express Live Rates PRO"
+msgstr ""
+
+#: src/Plugin.php:253
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: src/Plugin.php:254
+msgid "Docs"
+msgstr "Docs"
+
+#: src/Plugin.php:255
+msgid "Support"
+msgstr "Support"
+
+#: src/ShippingMethod/views/script-units-change.php:16
+msgid ""
+"Save the measurement units' changes made here using the button below to "
+"apply them to the Shipping boxes (if used)."
+msgstr ""
+"Zapisz zmiany, aby zobaczyć zmienione jednostki miary przy Pudełkach (jeżeli "
+"są dostępne)."
+
+#: src/views/settings-sidebar-html.php:13
+msgid "Hide shipping method based on:"
+msgstr "Ukrywaj metody wysyłki na podstawie:"
+
+#: src/views/settings-sidebar-html.php:18
+msgid "Products"
+msgstr "Produktów"
+
+#: src/views/settings-sidebar-html.php:21
+msgid "Shipping Class"
+msgstr "Klasy wysyłkowej"
+
+#: src/views/settings-sidebar-html.php:24
+msgid "Cart weight"
+msgstr "Wagi koszyka"
+
+#: src/views/settings-sidebar-html.php:27
+msgid "Cart value"
+msgstr "Wartości koszyka"
+
+#: src/views/settings-sidebar-html.php:30
+msgid "Time (Day/Hour)"
+msgstr "Czasu (dnia oraz godziny)"
+
+#: src/views/settings-sidebar-html.php:33
+msgid "Location"
+msgstr "Lokalizacji"
+
+#: src/views/settings-sidebar-html.php:38
+msgid "Get Conditional Shipping Methods →"
+msgstr "Kup Conditional Shipping Methods →"
+
+#. Plugin URI of the plugin/theme
+msgid "https://octol.io/dhl-express-plugin-site"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"WooCommerce DHL Express integration packed with many advanced features. "
+"Display the dynamically calculated live rates for DHL Express shipping "
+"methods and adjust them to your needs."
+msgstr ""
+"Integracja WooCommerce z DHL Express. Udostępnij swoim klientom dynamicznie "
+"obliczane stawki dla metod wysyłki DHL Express i dostosuj je do swoich "
+"potrzeb za pomocą zaawansowanych opcji."
+
+#. Author of the plugin/theme
+msgid "Octolize"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://octol.io/dhlexpress-author"
+msgstr ""
+
+#, php-format
+#~ msgid ""
+#~ "Dynamically calculated DHL Express live rates based on the established "
+#~ "DHL Express API connection. %1$sLearn more →%2$s"
+#~ msgstr ""
+#~ "Dynamicznie obliczane w oparciu o połączenie z API DHL Express stawki "
+#~ "rzeczywiste."
+
+#~ msgid ""
+#~ "Extends the free version of Flexible Shipping DHL Express by adding "
+#~ "advanced pro features."
+#~ msgstr ""
+#~ "Rozszerza bezpłatną wersję Flexible Shipping DHL Express poprzez dodanie "
+#~ "zaawansowanych ustawień."

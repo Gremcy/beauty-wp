@@ -1,0 +1,1688 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DHL Express Live Rates PRO 2.5.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/flexible-shipping-dhl-express-pro\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-05-10T05:10:44+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Language: de_DE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: flexible-shipping-dhl-express-pro\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: vendor\n"
+"X-Poedit-SearchPathExcluded-1: vendor_prefixed\n"
+"X-Loco-Source-Locale: en_PL\n"
+"X-Loco-Parser: loco_parse_po\n"
+
+#. Plugin Name of the plugin
+#. Plugin Name of the plugin/theme
+msgid "DHL Express Live Rates PRO"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Plugin URI of the plugin/theme
+msgid "https://octol.io/dhl-express-plugin-site"
+msgstr ""
+
+#. Description of the plugin
+#. Description of the plugin/theme
+msgid "WooCommerce DHL Express integration packed with many advanced features. Display the dynamically calculated live rates for DHL Express shipping methods and adjust them to your needs."
+msgstr ""
+
+#. Author of the plugin
+#. Author of the plugin/theme
+msgid "Octolize"
+msgstr ""
+
+#. Author URI of the plugin
+#. Author URI of the plugin/theme
+msgid "https://octol.io/dhlexpress-author"
+msgstr ""
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:32
+msgid "Cutoff Time"
+msgstr ""
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:34
+msgid "Cutoff Time is used to define what time you stop preparing orders same day. Cutoff time is only used if your lead time is set to zero."
+msgstr ""
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:37
+#: src/DhlExpressProShippingService/EstimatedDelivery/EstimatedDeliverySettingsDefinitionDecorator.php:39
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/CustomFields/FieldHandlingFees.php:33
+#: src/WooCommerceShipping/CustomFields/FieldHandlingFees.php:40
+msgid "None"
+msgstr "Keine"
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:38
+msgid "1 AM"
+msgstr ""
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:39
+msgid "2 AM"
+msgstr ""
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:40
+msgid "3 AM"
+msgstr ""
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:41
+msgid "4 AM"
+msgstr ""
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:42
+msgid "5 AM"
+msgstr ""
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:43
+msgid "6 AM"
+msgstr ""
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:44
+msgid "7 AM"
+msgstr ""
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:45
+msgid "8 AM"
+msgstr ""
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:46
+msgid "9 AM"
+msgstr ""
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:47
+msgid "10 AM"
+msgstr ""
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:48
+msgid "11 AM"
+msgstr ""
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:49
+msgid "12 PM"
+msgstr ""
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:50
+msgid "1 PM"
+msgstr ""
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:51
+msgid "2 PM"
+msgstr ""
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:52
+msgid "3 PM"
+msgstr ""
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:53
+msgid "4 PM"
+msgstr ""
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:54
+msgid "5 PM"
+msgstr ""
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:55
+msgid "6 PM"
+msgstr ""
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:56
+msgid "7 PM"
+msgstr ""
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:57
+msgid "8 PM"
+msgstr ""
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:58
+msgid "9 PM"
+msgstr ""
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:59
+msgid "10 PM"
+msgstr ""
+
+#: src/DhlExpressProShippingService/CutoffTime/CutoffTimeSettingsDefinitionDecorator.php:60
+msgid "11 PM"
+msgstr ""
+
+#: src/DhlExpressProShippingService/DatesAndTimes/DatesAndTimesSettingsDefinitionDecorator.php:34
+msgid "Dates & Time"
+msgstr ""
+
+#: src/DhlExpressProShippingService/DatesAndTimes/DatesAndTimesSettingsDefinitionDecorator.php:35
+msgid "Manage services' dates information."
+msgstr ""
+
+#: src/DhlExpressProShippingService/EstimatedDelivery/EstimatedDeliverySettingsDefinitionDecorator.php:36
+msgid "Estimated Delivery"
+msgstr ""
+
+#: src/DhlExpressProShippingService/EstimatedDelivery/EstimatedDeliverySettingsDefinitionDecorator.php:43
+msgid "Show estimated days to delivery date"
+msgstr ""
+
+#: src/DhlExpressProShippingService/EstimatedDelivery/EstimatedDeliverySettingsDefinitionDecorator.php:47
+msgid "Show estimated delivery date"
+msgstr ""
+
+#: src/DhlExpressProShippingService/EstimatedDelivery/EstimatedDeliverySettingsDefinitionDecorator.php:52
+msgid "You can show customers an estimated delivery date or time in transit. The information will be added to the service name in the checkout."
+msgstr ""
+
+#: src/DhlExpressProShippingService/Header/HeaderSettingsDefinitionDecorator.php:32
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:112
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:165
+msgid "Method Settings"
+msgstr "Einstellungen der Methode"
+
+#: src/DhlExpressProShippingService/Header/HeaderSettingsDefinitionDecorator.php:34
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:112
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:167
+msgid "Set how DHL Express services are displayed."
+msgstr "Lege fest, wie die DHL Express Dienstleistungen angezeigt werden."
+
+#: src/DhlExpressProShippingService/LeadTime/LeadTimeSettingsDefinitionDecorator.php:32
+msgid "Lead Time"
+msgstr ""
+
+#: src/DhlExpressProShippingService/LeadTime/LeadTimeSettingsDefinitionDecorator.php:34
+msgid "Lead Time is used to define how many days are required to prepare an order for shipment. The delivery date or time will be updated for the selected number of days."
+msgstr ""
+
+#: src/DhlExpressProShippingService/MaximumTransitTime/MaximumTransitTimeSettingsDefinitionDecorator.php:32
+msgid "Maximum Time in Transit"
+msgstr ""
+
+#: src/DhlExpressProShippingService/MaximumTransitTime/MaximumTransitTimeSettingsDefinitionDecorator.php:34
+msgid "Maximum Time in Transit is used to define the number of maximum days goods can be in transit. Only days in transit are counted. This is often used for perishable goods."
+msgstr ""
+
+#: src/DhlExpressProShippingService/ShippingMethodTypeDecorator.php:35
+msgid "Shipping Method Type"
+msgstr ""
+
+#: src/DhlExpressProShippingService/ShippingMethodTypeDecorator.php:38
+msgid "Standard shipping methods"
+msgstr ""
+
+#: src/DhlExpressProShippingService/ShippingMethodTypeDecorator.php:39
+msgid "Global shipping method"
+msgstr ""
+
+#. Translators: strong tag.
+#: src/DhlExpressProShippingService/ShippingMethodTypeDecorator.php:43
+#, php-format
+msgid "Select the %1$sStandard shipping methods%2$s if you want to add the 'DHL Express Live Rates' shipping method within specific shipping zones or choose the %1$sGlobal shipping method%2$s to enable the DHL Express Live Rates for all the shipping zones in your store at once."
+msgstr ""
+
+#. Translators: link.
+#: src/FreeDisabler/DhlExpressFreeDisabler.php:55
+#, php-format
+msgid "\"DHL Express for WooCommerce\" plugin can be removed now since the PRO version took over its functionalities.%1$s%2$sClick here%3$s to deactivate \"DHL Express for WooCommerce\" plugin."
+msgstr ""
+
+#: src/Plugin.php:148
+msgid "Service Code"
+msgstr ""
+
+#: src/Plugin.php:251
+msgid "Settings"
+msgstr ""
+
+#: src/Plugin.php:252
+msgid "Docs"
+msgstr ""
+
+#: src/Plugin.php:253
+msgid "Support"
+msgstr ""
+
+#: src/ShippingMethod/views/script-units-change.php:16
+msgid "Save the measurement units' changes made here using the button below to apply them to the Shipping boxes (if used)."
+msgstr ""
+
+#: src/views/settings-sidebar-html.php:13
+msgid "Hide shipping method based on:"
+msgstr ""
+
+#: src/views/settings-sidebar-html.php:18
+msgid "Products"
+msgstr ""
+
+#: src/views/settings-sidebar-html.php:21
+msgid "Shipping Class"
+msgstr ""
+
+#: src/views/settings-sidebar-html.php:24
+msgid "Cart weight"
+msgstr ""
+
+#: src/views/settings-sidebar-html.php:27
+msgid "Cart value"
+msgstr ""
+
+#: src/views/settings-sidebar-html.php:30
+msgid "Time (Day/Hour)"
+msgstr ""
+
+#: src/views/settings-sidebar-html.php:33
+msgid "Location"
+msgstr ""
+
+#: src/views/settings-sidebar-html.php:38
+msgid "Get Conditional Shipping Methods →"
+msgstr ""
+
+#: vendor_prefixed/octolize/wp-octolize-tracker/src/OptInNotice/views/html-notice.php:12
+#: src/OptInNotice/views/html-notice.php:8
+msgid "Help us improve Octolize plugins' experience"
+msgstr "Verbessere mit uns die Erfahrung mit den Octolize-Plugins!"
+
+#: vendor_prefixed/octolize/wp-octolize-tracker/src/OptInNotice/views/html-notice.php:15
+#: src/OptInNotice/views/html-notice.php:10
+#, php-format
+msgid "Hi %1$s, with your helping hand we can build effective solutions, launch the new features and shape better plugins experience. By agreeing to anonymously share non-sensitive %2$susage data%3$s of our plugins, you will help us develop them in the right direction. No personal data is tracked or stored and you can opt-out any time. Will you give the thumbs up to our efforts?"
+msgstr "Hallo %1$s, mit deiner hilfreichen Hand können wir effektive Lösungen entwickeln, neue Funktionen einführen und die Erfahrung mit den Plugins verbessern. Indem du zustimmst, nicht sensible %2$sNutzungsdaten%3$s unserer Plugins anonym zu teilen, hilfst du uns, sie in die erwünschte Richtung zu entwickeln. Es werden keine persönlichen Daten nachverfolgt oder gespeichert und du kannst sich jederzeit abmelden. Können wir uns auf dich verlassen?"
+
+#: vendor_prefixed/octolize/wp-octolize-tracker/src/OptInNotice/views/html-notice.php:22
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-notice.php:41
+#: src/OptInNotice/views/html-notice.php:17
+#: src/views/tracker-notice.php:15
+msgid "Allow"
+msgstr "Erlauben"
+
+#: vendor_prefixed/wpdesk/abstract-shipping/src/AbstractShipping/Settings/SettingsDecorators/BlackoutLeadDaysSettingsDefinitionDecoratorFactory.php:28
+#: src/AbstractShipping/Settings/SettingsDecorators/BlackoutLeadDaysSettingsDefinitionDecoratorFactory.php:29
+msgid "Blackout Lead Days"
+msgstr "Ausschluss von Durchführungstagen"
+
+#: vendor_prefixed/wpdesk/abstract-shipping/src/AbstractShipping/Settings/SettingsDecorators/BlackoutLeadDaysSettingsDefinitionDecoratorFactory.php:28
+#: src/AbstractShipping/Settings/SettingsDecorators/BlackoutLeadDaysSettingsDefinitionDecoratorFactory.php:32
+msgid "Blackout Lead Days are used to define days of the week when shop is not processing orders."
+msgstr "Diese Option wird verwendet, um Tage in der Woche zu definieren, an denen der Shop keine Bestellungen bearbeitet."
+
+#: vendor_prefixed/wpdesk/abstract-shipping/src/AbstractShipping/Settings/SettingsDecorators/BlackoutLeadDaysSettingsDefinitionDecoratorFactory.php:28
+#: src/AbstractShipping/Settings/SettingsDecorators/BlackoutLeadDaysSettingsDefinitionDecoratorFactory.php:36
+msgid "Monday"
+msgstr "Montag"
+
+#: vendor_prefixed/wpdesk/abstract-shipping/src/AbstractShipping/Settings/SettingsDecorators/BlackoutLeadDaysSettingsDefinitionDecoratorFactory.php:28
+#: src/AbstractShipping/Settings/SettingsDecorators/BlackoutLeadDaysSettingsDefinitionDecoratorFactory.php:37
+msgid "Tuesday"
+msgstr "Dienstag"
+
+#: vendor_prefixed/wpdesk/abstract-shipping/src/AbstractShipping/Settings/SettingsDecorators/BlackoutLeadDaysSettingsDefinitionDecoratorFactory.php:28
+#: src/AbstractShipping/Settings/SettingsDecorators/BlackoutLeadDaysSettingsDefinitionDecoratorFactory.php:38
+msgid "Wednesday"
+msgstr "Mittwoch"
+
+#: vendor_prefixed/wpdesk/abstract-shipping/src/AbstractShipping/Settings/SettingsDecorators/BlackoutLeadDaysSettingsDefinitionDecoratorFactory.php:28
+#: src/AbstractShipping/Settings/SettingsDecorators/BlackoutLeadDaysSettingsDefinitionDecoratorFactory.php:39
+msgid "Thursday"
+msgstr "Donnerstag"
+
+#: vendor_prefixed/wpdesk/abstract-shipping/src/AbstractShipping/Settings/SettingsDecorators/BlackoutLeadDaysSettingsDefinitionDecoratorFactory.php:28
+#: src/AbstractShipping/Settings/SettingsDecorators/BlackoutLeadDaysSettingsDefinitionDecoratorFactory.php:40
+msgid "Friday"
+msgstr "Freitag"
+
+#: vendor_prefixed/wpdesk/abstract-shipping/src/AbstractShipping/Settings/SettingsDecorators/BlackoutLeadDaysSettingsDefinitionDecoratorFactory.php:28
+#: src/AbstractShipping/Settings/SettingsDecorators/BlackoutLeadDaysSettingsDefinitionDecoratorFactory.php:41
+msgid "Saturday"
+msgstr "Samstag"
+
+#: vendor_prefixed/wpdesk/abstract-shipping/src/AbstractShipping/Settings/SettingsDecorators/BlackoutLeadDaysSettingsDefinitionDecoratorFactory.php:28
+#: src/AbstractShipping/Settings/SettingsDecorators/BlackoutLeadDaysSettingsDefinitionDecoratorFactory.php:42
+msgid "Sunday"
+msgstr "Sonntag"
+
+#: vendor_prefixed/wpdesk/abstract-shipping/src/AbstractShipping/UnitConversion/UniversalDimension.php:78
+#: vendor_prefixed/wpdesk/abstract-shipping/src/AbstractShipping/UnitConversion/UniversalWeight.php:92
+#: src/AbstractShipping/UnitConversion/UniversalDimension.php:90
+#: src/AbstractShipping/UnitConversion/UniversalWeight.php:104
+msgid "Can't convert weight to target unit."
+msgstr "Das Gewicht kann nicht in die Zieleinheit umgerechnet werden."
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:98
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:112
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:118
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:193
+msgid "DHL Express"
+msgstr "DHL Express"
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:98
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:122
+msgid "Credentials"
+msgstr "API Einstellungen"
+
+#. Translators: link.
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:100
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:126
+#, php-format
+msgid "You need to provide DHL Express account credentials to get live rates. Learn %1$show to create a DHL Express account →%2$s"
+msgstr "Du musst die Zugangsdaten für dein DHL Express-Konto angeben, um Live-Tarife zu erhalten. Erfahre %1$swie man ein DHL Express Konto erstellt →%2$s"
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:103
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:132
+msgid "Site ID"
+msgstr "Site ID"
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:103
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:139
+msgid "Password"
+msgstr "Kennwort"
+
+#. Translators: HTML strong tag and link.
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:105
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:146
+#, php-format
+msgid "In order to get the %1$sSite ID%2$s log in to your DHL Express account %3$shere%4$s and copy it from %1$sMy profile%2$s or %1$sXML Services Status%2$s tabs. If you haven't received an email containing the %1$sSite ID%2$s and %1$spassword%2$s, please contact the DHL Express support directly."
+msgstr "Um die %1$sSite ID%2$s zu erhalten, logg dich in dein DHL Express Konto %3$shier%4$s ein und kopiere sie aus den Registerkarten %1$sMein Profil%2$s oder %1$sXML Services Status%2$s. Wenn du keine E-Mail mit der %1$sSite ID%2$s und dem %1$sPasswort%2$s erhalten hast, wende dich bitte direkt an den DHL Express Support."
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:111
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:156
+msgid "Test Credentials"
+msgstr "Test-Anmeldeinformationen"
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:111
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:158
+msgid "Enable to use test credentials"
+msgstr "Aktiviere die Verwendung von Test-Anmeldeinformationen"
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:112
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:170
+msgid "Enable/Disable"
+msgstr "Aktivieren/Deaktivieren"
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:112
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:172
+msgid "Enable DHL Express global shipping method"
+msgstr "Aktiviere die globale DHL Express Versandmethode"
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:112
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:174
+msgid "If you need to turn off DHL Express rates display in the shop, just uncheck this option."
+msgstr "Lass diese Option deaktiviert werden, wenn du die DHL Express-Tarife in deinem Shop nicht anzeigen möchtest."
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:112
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:178
+#, php-format
+msgid "Gain even more flexibility and add the DHL Express Live Rates within specific shipping zones instead of using the Global shipping method. %1$sUpgrade your DHL Express WooCommerce Live Rates plugin to PRO now →%2$s"
+msgstr "Gewinne noch mehr Flexibilität und füge die DHL Express Live-Tarife innerhalb bestimmter Versandzonen hinzu, anstatt die globale Versandmethode zu verwenden. %1$sUpgrade dein DHL Express WooCommerce Live-Versandtarife Plugin jetzt auf PRO →%2$s"
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:112
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:187
+msgid "Method Title"
+msgstr "Name der Methode"
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:112
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:189
+msgid "This controls the title which the user sees during checkout when fallback is used."
+msgstr "Definiere den DHL Express Versandmethodetitel, den der Benutzer an der Kasse sieht, wenn Fallback verwendet wird."
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:112
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:200
+msgid "Custom Services"
+msgstr "DHL Express Dienstleistungen"
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:112
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:202
+msgid "Enable custom services"
+msgstr "Benutzerdefinierte Einstellungen für Dienste aktivieren"
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:112
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:203
+msgid "Enable if you want to select available services. By enabling a service, it does not guarantee that it will be offered, as the plugin will only offer the available rates based on the package weight, the origin and the destination."
+msgstr "Entscheide welche Dienstleistungen angezeigt werden sollen, ändere ihre Namen und Reihenfolge. Aktiviere diese Option, wenn du die verfügbaren Dienste auswählen möchtest. Die Aktivierung einer Dienstleistung garantiert nicht, dass sie angeboten wird, weil das Plugin nur die verfügbaren Tarife auf der Grundlage des Paketgewichts, der Absenderadresse und des Ziels anbietet."
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:112
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:209
+msgid "Services Table"
+msgstr "DHL Express Dienstleistungen-Tabelle"
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:112
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:214
+msgid "Rates Adjustments"
+msgstr "Tarifanpassungen"
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:112
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:215
+msgid "Adjust these settings to get more accurate rates."
+msgstr "Passe diese Einstellungen an, um genauere Tarife zu erhalten."
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:112
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:219
+msgid "Discounted Rates"
+msgstr "Ermäßigte Tarife"
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:112
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:221
+msgid "Enable if you want to use discounted rates"
+msgstr "Aktiviere diese Option, wenn du die ermäßigten Tarife nutzen möchtest"
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:112
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:222
+msgid "If you want to use the rates assigned to your account, use the ID assigned to the payer's account. Contact DHL Express for more information."
+msgstr "Wenn du deinem Konto zugewiesenen Tarife verwenden möchtest, verwende die dem Konto des Auftraggebers zugewiesene ID. Wende dich für weitere Informationen an DHL Express."
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:112
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:226
+msgid "Payment Account Number"
+msgstr "Zahlungskontonummer"
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:112
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:230
+msgid "Insurance"
+msgstr "Versicherung"
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:112
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:232
+msgid "Request insurance to be included in DHL Express rates"
+msgstr "Beantrage die Aufnahme der Versicherung in die DHL Express Tarife"
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:112
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:233
+msgid "Enable if you want to include insurance in DHL Express rates when it is available."
+msgstr "Aktiviere diese Option, wenn du eine Versicherung in die DHL Express Tarife aufnehmen möchtest, sofern diese verfügbar ist."
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:112
+#: vendor_prefixed/wpdesk/wp-pro-woocommerce-shipping/src/Packer/PackerSettings.php:98
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:237
+msgid "Parcel Packing Method"
+msgstr "Verpackungsmethode"
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:112
+#: vendor_prefixed/wpdesk/wp-pro-woocommerce-shipping/src/Packer/PackerSettings.php:98
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:240
+msgid "Pack into one box by weight"
+msgstr "Alle Produkte zusammen in einer Versandverpackung"
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:112
+#: vendor_prefixed/wpdesk/wp-pro-woocommerce-shipping/src/Packer/PackerSettings.php:98
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:241
+msgid "Pack items separately"
+msgstr "Alle Produkte separat verpacken"
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:112
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:243
+msgid "This option allows you to achieve more accurate Shipping Rates."
+msgstr "Mit dieser Option kannst du genauere Versandtarife erzielen."
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:112
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:248
+msgid "Duties & Taxes"
+msgstr "Zölle und Steuern"
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:112
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:249
+msgid "Determine the circumstances when the duties and taxes should be applied for international shipping."
+msgstr "Bestimme die Umstände, unter denen die Zölle und Steuern für den internationalen Versand erhoben werden sollten."
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:112
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:253
+msgid "Dutiable shipment"
+msgstr "Zollpflichtige Sendungen"
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:112
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:256
+msgid "Never"
+msgstr "Niemals"
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:112
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:257
+msgid "Always (except domestic shipping)"
+msgstr "Immer (außer Inlandsversand)"
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:112
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:258
+msgid "Only for selected countries"
+msgstr "Nur für bestimmte Länder"
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:112
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:259
+msgid "Always, except selected countries and domestic shipping"
+msgstr "Immer, außer bestimmte Länder und Inlandsversand"
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:112
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:261
+msgid "Define when the shipment you send should be considered as dutiable."
+msgstr "Entscheide, wann die von dir verschickte Sendung als zollpflichtig zu betrachten ist."
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:112
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:266
+msgid "Selected countries"
+msgstr "Bestimmte Länder"
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:112
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:270
+msgid "Choose the countries which the option selected in the 'Dutiable shipment' field will be applied to."
+msgstr "Wähle die Länder aus, die die im Feld \"Zollpflichtige Sendungen” ausgewählte Option betrifft."
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:112
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:275
+msgid "Advanced Options"
+msgstr "Erweiterte Einstellungen"
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:112
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:279
+msgid "Debug Mode"
+msgstr "Debug-Modus"
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:112
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:280
+msgid "Enable debug mode"
+msgstr "Debug-Modus aktivieren"
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:112
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:282
+msgid "Enable debug mode to display messages in the cart/checkout. Only admins and shop managers will see all messages and data sent to DHL Express. The customer will only see messages from the DHL Express API."
+msgstr "Aktiviere den Debug-Modus, um die technischen Nachrichten im Warenkorb/an der Kasse anzuzeigen. Administratoren und Shop-Manager sehen alle Nachrichten und Daten, die an DHL Express gesendet werden. Der Kunde sieht nur Nachrichten von der DHL Express API."
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:112
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:286
+msgid "Measurement Units"
+msgstr "Maßeinheiten"
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:112
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:289
+msgid "LBS/IN"
+msgstr "LBS/IN"
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:112
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:290
+msgid "KG/CM"
+msgstr "KG/CM"
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlSettingsDefinition.php:112
+#: src/DhlExpressShippingService/DhlSettingsDefinition.php:292
+msgid "By default store settings are used. If you see \"This measurement system is not valid for the selected country\" errors, switch units. Units in the store settings will be converted to units required by DHL Express."
+msgstr "Die in den WooCommerce-Einstellungen festgelegten Einheiten werden standardmäßig verwendet. Wenn du die Fehlermeldung „Dieses Maßsystem ist für das ausgewählte Land nicht gültig” erhielst, ändere bitte die Einheiten. Sobald dies getan ist, werden sie in die von der DHL Express API benötigten Einheiten umgewandelt."
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlShippingService.php:211
+#: src/DhlExpressShippingService/DhlShippingService.php:226
+msgid "DHL Express Live Rates"
+msgstr "DHL Express Live-Tarife"
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/DhlShippingService.php:220
+#: src/DhlExpressShippingService/DhlShippingService.php:236
+#, php-format
+msgid "Dynamically calculated DHL Express live rates based on the established DHL Express API connection. %1$sLearn more →%2$s"
+msgstr "Dynamisch berechnete DHL Express Live-Tarife auf der Grundlage der hergestellten DHL Express API-Verbindung. %1$sMehr erfahren →%2$s"
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/Exception/CurrencySwitcherException.php:21
+#: src/DhlExpressShippingService/Exception/CurrencySwitcherException.php:22
+#, php-format
+msgid "Multicurrency is supported by %1$sFlexible Shipping DHL Express PRO →%2$s"
+msgstr "Mehrere Währungen werden nur von der DHL Express Live-Versandtarife PRO Version unterstützt! %1$sMehr erfahren →%2$s"
+
+#: vendor_prefixed/wpdesk/dhl-express-shipping-service/src/DhlExpressShippingService/Exception/NoRatesInCurrencyInRatingsException.php:15
+#: src/DhlExpressShippingService/Exception/NoRatesInCurrencyInRatingsException.php:15
+msgid "The shop's currency is other than set on the DHL Express account."
+msgstr "Die Währung des Shops ist anders als auf dem DHL Express Konto eingestellt."
+
+#: vendor_prefixed/wpdesk/wp-helpscout-beacon/src/Beacon/Beacon.php:51
+#: vendor_prefixed/wpdesk/wp-helpscout-beacon/src/Beacon/Beacon.php:92
+#: Beacon/Beacon.php:57
+#: Beacon/Beacon.php:98
+msgid "When you click OK we will open our HelpScout beacon where you can find answers to your questions. This beacon will load our help articles and also potentially set cookies."
+msgstr "Wenn du auf OK klickst, wird unser HelpScout-Beacon geöffnet, in dem sich die Antworten auf deine Fragen befinden. Dieser Beacon lädt unsere Support-Daten und setzt möglicherweise auch Cookies."
+
+#: vendor_prefixed/wpdesk/wp-logs/src/deprecated/wpdesk-logger.php:59
+#: deprecated/wpdesk-logger.php:70
+msgid "Disabled"
+msgstr "Deaktiviert"
+
+#: vendor_prefixed/wpdesk/wp-logs/src/deprecated/wpdesk-logger.php:59
+#: deprecated/wpdesk-logger.php:71
+msgid "Emergency"
+msgstr "Notfall"
+
+#: vendor_prefixed/wpdesk/wp-logs/src/deprecated/wpdesk-logger.php:59
+#: deprecated/wpdesk-logger.php:72
+msgid "Alert"
+msgstr "Alarm"
+
+#: vendor_prefixed/wpdesk/wp-logs/src/deprecated/wpdesk-logger.php:59
+#: deprecated/wpdesk-logger.php:73
+msgid "Critical"
+msgstr "Kritisch"
+
+#: vendor_prefixed/wpdesk/wp-logs/src/deprecated/wpdesk-logger.php:59
+#: deprecated/wpdesk-logger.php:74
+msgid "Error"
+msgstr "Fehler"
+
+#: vendor_prefixed/wpdesk/wp-logs/src/deprecated/wpdesk-logger.php:59
+#: deprecated/wpdesk-logger.php:75
+msgid "Warning"
+msgstr "Warnung"
+
+#: vendor_prefixed/wpdesk/wp-logs/src/deprecated/wpdesk-logger.php:59
+#: deprecated/wpdesk-logger.php:76
+msgid "Notice"
+msgstr "Hinweis"
+
+#: vendor_prefixed/wpdesk/wp-logs/src/deprecated/wpdesk-logger.php:59
+#: deprecated/wpdesk-logger.php:77
+msgid "Info"
+msgstr "Info"
+
+#: vendor_prefixed/wpdesk/wp-logs/src/deprecated/wpdesk-logger.php:59
+#: deprecated/wpdesk-logger.php:78
+msgid "Debug"
+msgstr "Debug"
+
+#. Translators: directory.
+#: vendor_prefixed/wpdesk/wp-logs/src/WP/WPCapture.php:23
+#: WP/WPCapture.php:25
+#, php-format
+msgid "Can not enable WP Desk Debug log! Cannot create directory %s or this directory is not writeable!"
+msgstr "WP Desk Debug-Log kann nicht aktiviert werden! Verzeichnis %s kann nicht erstellt werden, oder dieses Verzeichnis kann nicht geschrieben werden!"
+
+#. Translators: directory.
+#: vendor_prefixed/wpdesk/wp-logs/src/WP/WPCapture.php:36
+#: WP/WPCapture.php:44
+#, php-format
+msgid "Can not enable WP Desk Debug log! Cannot create file %s!"
+msgstr "WP Desk Debug-Log kann nicht aktiviert werden! %s Datei kann nicht erstellt werden!"
+
+#: vendor_prefixed/wpdesk/wp-pro-woocommerce-shipping/src/CustomFields/ShippingBoxes.php:83
+msgid "Type"
+msgstr ""
+
+#. Translators: units.
+#: vendor_prefixed/wpdesk/wp-pro-woocommerce-shipping/src/CustomFields/ShippingBoxes.php:85
+msgid "Length %1$s"
+msgstr ""
+
+#. Translators: units.
+#: vendor_prefixed/wpdesk/wp-pro-woocommerce-shipping/src/CustomFields/ShippingBoxes.php:87
+msgid "Width %1$s"
+msgstr ""
+
+#. Translators: units.
+#: vendor_prefixed/wpdesk/wp-pro-woocommerce-shipping/src/CustomFields/ShippingBoxes.php:89
+msgid "Height %1$s"
+msgstr ""
+
+#. Translators: units.
+#: vendor_prefixed/wpdesk/wp-pro-woocommerce-shipping/src/CustomFields/ShippingBoxes.php:91
+msgid "Max Weight %1$s"
+msgstr ""
+
+#. Translators: units.
+#: vendor_prefixed/wpdesk/wp-pro-woocommerce-shipping/src/CustomFields/ShippingBoxes.php:93
+msgid "Padding %1$s"
+msgstr ""
+
+#. Translators: units.
+#: vendor_prefixed/wpdesk/wp-pro-woocommerce-shipping/src/CustomFields/ShippingBoxes.php:95
+msgid "Box Weight %1$s"
+msgstr ""
+
+#. Translators: units.
+#: vendor_prefixed/wpdesk/wp-pro-woocommerce-shipping/src/CustomFields/ShippingBoxes.php:96
+msgid "Delete"
+msgstr ""
+
+#: vendor_prefixed/wpdesk/wp-pro-woocommerce-shipping/src/CustomFields/ShippingBoxes.php:97
+msgid "Add"
+msgstr ""
+
+#. Translators: link to packages.
+#: vendor_prefixed/wpdesk/wp-pro-woocommerce-shipping/src/Packer/PackerSettings.php:89
+msgid "Select the package type the ordered products will be matched to. You can choose one or as many different packagings as you need. If selected, filling in the products' weight and dimensions fields is required. %1$sLearn more about the sizes and package types →%2$s"
+msgstr ""
+
+#: vendor_prefixed/wpdesk/wp-pro-woocommerce-shipping/src/Packer/PackerSettings.php:97
+msgid "Shipping boxes"
+msgstr ""
+
+#: vendor_prefixed/wpdesk/wp-pro-woocommerce-shipping/src/Packer/PackerSettings.php:98
+msgid "Pack into custom boxes"
+msgstr ""
+
+#: vendor_prefixed/wpdesk/wp-pro-woocommerce-shipping/src/Packer/PackerSettings.php:98
+msgid "Define the way how the ordered products should be packed. Changing your choice here may affect the rates."
+msgstr ""
+
+#. Translators: product names.
+#: vendor_prefixed/wpdesk/wp-pro-woocommerce-shipping/src/ShippingBuilder/CannotPackItemException.php:24
+msgid "Cannot pack item: %1$s. %2$s"
+msgstr ""
+
+#. Translators: product names.
+#: vendor_prefixed/wpdesk/wp-pro-woocommerce-shipping/src/ShippingBuilder/CannotPackItemsException.php:33
+msgid "Cannot pack items: %1$s."
+msgstr ""
+
+#: vendor_prefixed/wpdesk/wp-pro-woocommerce-shipping/src/ShippingBuilder/WooCommerceShippingBuilder.php:99
+msgid "weight"
+msgstr ""
+
+#: vendor_prefixed/wpdesk/wp-pro-woocommerce-shipping/src/ShippingBuilder/WooCommerceShippingBuilder.php:102
+msgid "width"
+msgstr ""
+
+#: vendor_prefixed/wpdesk/wp-pro-woocommerce-shipping/src/ShippingBuilder/WooCommerceShippingBuilder.php:105
+msgid "length"
+msgstr ""
+
+#: vendor_prefixed/wpdesk/wp-pro-woocommerce-shipping/src/ShippingBuilder/WooCommerceShippingBuilder.php:108
+msgid "height"
+msgstr ""
+
+#. Translators: reasons.
+#: vendor_prefixed/wpdesk/wp-pro-woocommerce-shipping/src/ShippingBuilder/WooCommerceShippingBuilder.php:114
+msgid "Item %1$s not set!"
+msgstr ""
+
+#: vendor_prefixed/wpdesk/wp-settings-field-boxes/src/PackerBoxesFactory.php:28
+#: src/PackerBoxesFactory.php:30
+#, php-format
+msgid "Custom (%1$sx%2$sx%3$s/%4$s)"
+msgstr "Benutzerdefinierter (%1$sx%2$sx%3$s/%4$s)"
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/AddMethodReminder/AddMethodReminder.php:53
+#: src/WooCommerceShipping/AddMethodReminder/AddMethodReminder.php:63
+#, php-format
+msgid "%1$sPlease add now the %2$s shipping method within the shipping zone you want it to be available in →%3$s"
+msgstr "%1$sFüge jetzt die %2$s Versandmethode innerhalb der Versandzone hinzu, in der sie verfügbar sein soll →%3$s"
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/ApiStatus/ApiStatusSettingsDefinitionDecorator.php:30
+#: src/WooCommerceShipping/ApiStatus/ApiStatusSettingsDefinitionDecorator.php:36
+msgid "API Connection Status"
+msgstr "Status der API-Verbindung"
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/ApiStatus/ApiStatusSettingsDefinitionDecorator.php:30
+#: src/WooCommerceShipping/ApiStatus/ApiStatusSettingsDefinitionDecorator.php:39
+msgid "Checking..."
+msgstr "Wird geprüft…"
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/ApiStatus/ApiStatusSettingsDefinitionDecorator.php:30
+#: src/WooCommerceShipping/ApiStatus/ApiStatusSettingsDefinitionDecorator.php:41
+msgid "If you encounter any problems with establishing the API connection, the detailed information on its cause will be displayed here."
+msgstr "Sollten Probleme beim Aufbau der API-Verbindung auftreten, werden hier detaillierte Informationen über die Ursache angezeigt."
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/CustomFields/ApiStatus/FieldApiStatusAjax.php:65
+#: src/WooCommerceShipping/CustomFields/ApiStatus/FieldApiStatusAjax.php:70
+msgid "OK"
+msgstr "OK"
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/CustomFields/CouldNotFindService.php:21
+#: src/WooCommerceShipping/CustomFields/CouldNotFindService.php:21
+#, php-format
+msgid "Not found HTML view for custom field %1$s."
+msgstr "HTML-Ansicht für benutzerdefiniertes Feld %1$s nicht gefunden."
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/CustomFields/FieldHandlingFees.php:33
+#: src/WooCommerceShipping/CustomFields/FieldHandlingFees.php:36
+msgid "Handling Fees"
+msgstr "Bearbeitungsgebühren"
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/CustomFields/FieldHandlingFees.php:33
+#: src/WooCommerceShipping/CustomFields/FieldHandlingFees.php:44
+msgid "Fixed value"
+msgstr "Festwert"
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/CustomFields/FieldHandlingFees.php:33
+#: src/WooCommerceShipping/CustomFields/FieldHandlingFees.php:48
+msgid "Percentage"
+msgstr "Prozentsatz"
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/CustomFields/FieldHandlingFees.php:33
+#: src/WooCommerceShipping/CustomFields/FieldHandlingFees.php:53
+msgid "Use this option to apply the handling fees to the rates. You can use either fixed or percentage values, including the negative ones for discounts."
+msgstr "Verwende diese Option, um die Bearbeitungsgebühren auf die Tarife anzuwenden. Du kannst entweder feste oder prozentuale Werte verwenden, einschließlich der negativen Werte für Rabatte."
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/CustomFields/FieldHandlingFees.php:34
+#: src/WooCommerceShipping/CustomFields/FieldHandlingFees.php:61
+msgid "Fees Amount"
+msgstr "Gebühren betragen"
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/CustomFields/FieldHandlingFees.php:34
+#: src/WooCommerceShipping/CustomFields/FieldHandlingFees.php:63
+msgid "Enter a positive value to charge your customers additionally or a negative one to apply the discount. If you use the currency switcher, the final price incl. Handling Fee will be automatically converted to the currently active currency in your shop. The rates will also include the taxes based on your current Tax settings."
+msgstr "Gib einen positiven Wert ein, um deinen Kunden einen Aufschlag zu berechnen, oder einen negativen Wert, um den Rabatt anzuwenden. Wenn du den Währungsumrechner verwenden, wird der Endpreis inkl. Bearbeitungsgebühr automatisch in die aktuell in deinem Shop aktive Währung umgerechnet. Die Preise enthalten auch die Steuern, die du in deinen aktuellen Steuereinstellungen festgelegt hast."
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/CustomFields/Services/views/services.php:39
+#: src/WooCommerceShipping/CustomFields/Services/views/services.php:26
+msgid "Code"
+msgstr "Code"
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/CustomFields/Services/views/services.php:42
+#: src/WooCommerceShipping/CustomFields/Services/views/services.php:27
+msgid "Name"
+msgstr "Name"
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/CustomFields/Services/views/services.php:47
+#: src/WooCommerceShipping/CustomFields/Services/views/services.php:30
+msgid "Enabled"
+msgstr "Aktiviert"
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/CustomFields/Services/views/services.php:103
+#: src/WooCommerceShipping/CustomFields/Services/views/services.php:62
+msgid "Drag and drop the services to control their display order. Confirm by clicking Save changes button below."
+msgstr "Ziehe die Dienste per Drag & Drop, um die Reihenfolge der Anzeige zu bestimmen. Bestätige, indem du unten auf die Schaltfläche Änderungen speichern klickst."
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/CustomOrigin/CustomOriginFields.php:42
+#: src/WooCommerceShipping/CustomOrigin/CustomOriginFields.php:63
+msgid "Custom Origin"
+msgstr "Benutzerdefinierter Ursprung"
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/CustomOrigin/CustomOriginFields.php:43
+#: src/WooCommerceShipping/CustomOrigin/CustomOriginFields.php:74
+msgid "Origin Address"
+msgstr "Absenderadresse"
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/CustomOrigin/CustomOriginFields.php:44
+#: src/WooCommerceShipping/CustomOrigin/CustomOriginFields.php:83
+msgid "Origin City"
+msgstr "Sendeort"
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/CustomOrigin/CustomOriginFields.php:45
+#: src/WooCommerceShipping/CustomOrigin/CustomOriginFields.php:92
+msgid "Origin Postcode"
+msgstr "Versand-Postleitzahl"
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/CustomOrigin/CustomOriginFields.php:46
+#: src/WooCommerceShipping/CustomOrigin/CustomOriginFields.php:101
+msgid "Origin Country/State"
+msgstr "Versandsland"
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/CustomOrigin/CustomOriginFields.php:66
+msgid "Origin Settings for the whole store"
+msgstr ""
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/CustomOrigin/CustomOriginFields.php:68
+msgid "Origin Settings"
+msgstr ""
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/CustomOrigin/CustomOriginFields.php:77
+msgid "Enable custom origin for the whole store"
+msgstr ""
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/CustomOrigin/CustomOriginFields.php:79
+#: src/WooCommerceShipping/CustomOrigin/CustomOriginFields.php:64
+msgid "Enable custom origin"
+msgstr "Benutzerdefinierten Ursprung aktivieren"
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/CustomOrigin/CustomOriginFields.php:90
+msgid "Use this option to use a different shipper's address than the one defined in the WooCommerce settings. If not enabled, the one you've entered in WooCommerce → Settings → General → Store Address will be used by default. Each shipping method can have their own custom origin."
+msgstr ""
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/CustomOrigin/CustomOriginFields.php:92
+msgid "Use this option to use a different shipper's address than the one defined in the WooCommerce settings. If not enabled, the one you've entered in WooCommerce → Settings → General → Store Address will be used by default."
+msgstr ""
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/CustomOrigin/InstanceCustomOriginFields.php:31
+msgid "Origin Settings for this Shipping Method"
+msgstr ""
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/CustomOrigin/InstanceCustomOriginFields.php:38
+msgid "Enable custom origin for this shipping method"
+msgstr ""
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/CustomOrigin/InstanceCustomOriginFields.php:45
+msgid "Use this option to use a different shipper's address for this shipping method."
+msgstr ""
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/FreeShipping/FreeShipping.php:55
+#: src/WooCommerceShipping/FreeShipping/FreeShipping.php:56
+#, php-format
+msgid "Cart value exceeds %s. Free shipping has been applied."
+msgstr "Warenkorb-Wert überschreitet %s. Der kostenlose Versand wurde angewendet."
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/FreeShipping/FreeShipping.php:55
+#: src/WooCommerceShipping/FreeShipping/FreeShipping.php:56
+#, php-format
+msgid "Cart value doesn't exceed %s. Free shipping hasn't been applied."
+msgstr "Der Warenkorb-Wert übersteigt nicht %s. Der kostenlose Versand wurde nicht angewendet."
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/FreeShipping/FreeShipping.php:56
+#: src/WooCommerceShipping/FreeShipping/FreeShipping.php:59
+msgid "Subtotal"
+msgstr "Zwischensumme"
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/FreeShipping/FreeShipping.php:56
+#: src/WooCommerceShipping/FreeShipping/FreeShipping.php:60
+msgid "Free Shipping Amount"
+msgstr "Betrag für kostenlosen Versand"
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/FreeShipping/FreeShippingFields.php:27
+#: src/WooCommerceShipping/FreeShipping/FreeShippingFields.php:29
+msgid "Free Shipping"
+msgstr "Kostenloser Versand"
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/FreeShipping/FreeShippingFields.php:27
+#: src/WooCommerceShipping/FreeShipping/FreeShippingFields.php:31
+msgid "Enable the free shipping over amount"
+msgstr "Aktiviere den kostenlosen Versand über den Betrag"
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/FreeShipping/FreeShippingFields.php:27
+#: src/WooCommerceShipping/FreeShipping/FreeShippingFields.php:32
+msgid "Tick this checkbox to enter the order amount above which the shipping becomes free."
+msgstr "Aktiviere dieses Kontrollkästchen, um den Bestellwert einzugeben, ab dem der Versand kostenlos wird."
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/FreeShipping/FreeShippingFields.php:28
+#: src/WooCommerceShipping/FreeShipping/FreeShippingFields.php:38
+msgid "Free Shipping Threshold"
+msgstr "Schwellenwert für kostenlosen Versand"
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/FreeShipping/FreeShippingFields.php:28
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/ShippingMethod/Traits/SettingsTrait.php:238
+#: src/WooCommerceShipping/FreeShipping/FreeShippingFields.php:42
+#: src/WooCommerceShipping/ShippingMethod/Traits/SettingsTrait.php:218
+msgid "Enter only a numeric value without the currency symbol."
+msgstr "Gib nur einen numerischen Wert ohne das Währungssymbol ein."
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/OrderMetaData/FallbackAdminMetaDataInterpreter.php:31
+#: src/WooCommerceShipping/OrderMetaData/FallbackAdminMetaDataInterpreter.php:32
+msgid "Fallback reason"
+msgstr "Ursache des Fallbacks"
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/OrderMetaData/PackedPackagesAdminMetaDataInterpreter.php:30
+#: src/WooCommerceShipping/OrderMetaData/PackedPackagesAdminMetaDataInterpreter.php:30
+msgid "Packages"
+msgstr "Pakete"
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/OrderMetaData/PackedPackagesMetaDataBuilder.php:49
+#: src/WooCommerceShipping/OrderMetaData/PackedPackagesMetaDataBuilder.php:54
+msgid "Custom"
+msgstr "Benutzerdefiniert"
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/ShippingMethod/RateMethod/CollectionPoint/CollectionPointRateMethod.php:73
+#: src/WooCommerceShipping/ShippingMethod/RateMethod/CollectionPoint/CollectionPointRateMethod.php:82
+msgid "No rates added from collection point rates!"
+msgstr "Keine Zuschläge von Sammelstellentarifen!"
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/ShippingMethod/RateMethod/CollectionPoint/CollectionPointRateMethod.php:76
+#: src/WooCommerceShipping/ShippingMethod/RateMethod/CollectionPoint/CollectionPointRateMethod.php:85
+msgid "Collection point not found."
+msgstr "Sammelstelle nicht gefunden."
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/ShippingMethod/RateMethod/Fallback/FallbackRateMethod.php:54
+#: src/WooCommerceShipping/ShippingMethod/RateMethod/Fallback/FallbackRateMethod.php:62
+msgid "There was no valid services available."
+msgstr "Es waren keine gültigen Dienstleistungen verfügbar."
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/ShippingMethod/RateMethod/Fallback/FallbackRateMethod.php:58
+#: src/WooCommerceShipping/ShippingMethod/RateMethod/Fallback/FallbackRateMethod.php:66
+#, php-format
+msgid "Fallback rate added with reason: %1$s"
+msgstr "Ursache für das Fallback: %1$s"
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/ShippingMethod/RateMethod/Standard/StandardServiceRateMethod.php:54
+#: src/WooCommerceShipping/ShippingMethod/RateMethod/Standard/StandardServiceRateMethod.php:60
+msgid "No rates added from standard service rates!"
+msgstr "Keine Aufschläge auf die Standardtarife!"
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/ShippingMethod/Traits/SettingsTrait.php:237
+#: src/WooCommerceShipping/ShippingMethod/Traits/SettingsTrait.php:206
+msgid "Fallback"
+msgstr "Fallback"
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/ShippingMethod/Traits/SettingsTrait.php:237
+#: src/WooCommerceShipping/ShippingMethod/Traits/SettingsTrait.php:208
+msgid "Enable fallback"
+msgstr "Fallback einschalten"
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/ShippingMethod/Traits/SettingsTrait.php:237
+#: src/WooCommerceShipping/ShippingMethod/Traits/SettingsTrait.php:209
+msgid "Enable to offer flat rate cost for shipping so that the user can still checkout, if API for some reason returns no matching rates."
+msgstr "Aktiviere das Angebot von Pauschalpreisen für den Versand, damit der Benutzer immer noch zur Kasse gehen kann, wenn die API aus irgendeinem Grund keine passenden Preise liefert."
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/ShippingMethod/Traits/SettingsTrait.php:238
+#: src/WooCommerceShipping/ShippingMethod/Traits/SettingsTrait.php:215
+msgid "Fallback Cost"
+msgstr "Fallback-Kosten"
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/view/display-notice-context-single-value.php:12
+#: src/WooCommerceShipping/view/display-notice-context-single-value.php:8
+#, php-format
+msgid "Show %1$s"
+msgstr "Anzeigen %1$s"
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/view/display-notice-context-single-value.php:15
+#: src/WooCommerceShipping/view/display-notice-context-single-value.php:9
+#, php-format
+msgid "Hide %1$s"
+msgstr "Ausblenden %1$s"
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/src/WooCommerceShipping/view/display-notice-context-single-value.php:18
+#: src/WooCommerceShipping/view/display-notice-context-single-value.php:10
+#, php-format
+msgid "Copy %1$s to clipboard"
+msgstr "Kopieren %1$s in die Zwischenablage"
+
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/templates/after-shipping-rate-days-to-arrival.php:16
+#: templates/after-shipping-rate-days-to-arrival.php:14
+msgid "(Delivery Days: 0 days)"
+msgstr "(Liefertage: 0 Tage)"
+
+#. Translators: time in transit.
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/templates/after-shipping-rate-days-to-arrival.php:20
+#: templates/after-shipping-rate-days-to-arrival.php:17
+#, php-format
+msgid "(Delivery Days: %1$d day)"
+msgid_plural "(Delivery Days: %1$d days)"
+msgstr[0] "(Liefertage: %1$d Tag)"
+msgstr[1] ""
+
+#. Translators: delivery date.
+#: vendor_prefixed/wpdesk/wp-woocommerce-shipping/templates/after-shipping-rate-delivery-date.php:16
+#: templates/after-shipping-rate-delivery-date.php:14
+#, php-format
+msgid "(Delivery Date: %1$s)"
+msgstr "(Lieferdatum: %1$s)"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-license/src/ActivationForm/views/activation-form-content.php:32
+#: ActivationForm/views/activation-form-content.php:25
+msgid "Plugin's API key has been successfully activated. You are now fully eligible to receive plugin updates and support."
+msgstr "Der API-Schlüssel des Plugins wurde erfolgreich aktiviert. Du bist nun berechtigt, Updates und Support für das Plugin zu erhalten."
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-license/src/ActivationForm/views/activation-form-content.php:34
+#: ActivationForm/views/activation-form-content.php:27
+msgid "Plugin's API key has been successfully activated, but your subscription has expired. In order to receive the upcoming updates and support please renew your subscription."
+msgstr "Der API-Schlüssel des Plugins wurde erfolgreich aktiviert, aber dein Abonnement ist abgelaufen. Um die nächsten Updates und den Support zu erhalten, verlängere bitte dein Abonnement."
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-license/src/ActivationForm/views/activation-form-content.php:37
+#: ActivationForm/views/activation-form-content.php:30
+msgid "In order to receive the upcoming updates and support please enter the plugin's API key obtained after the purchase."
+msgstr "Um die kommenden Updates und den Support zu erhalten, gib bitte den API-Schlüssel des Plugins ein, den du nach dem Kauf erhalten hast."
+
+#. Translators: my account link and docs link.
+#: vendor_prefixed/wpdesk/wp-wpdesk-license/src/ActivationForm/views/activation-form-content.php:42
+#: ActivationForm/views/activation-form-content.php:35
+#, php-format
+msgid "You can find it in %1$sMy Account / API Keys%2$s tab. %3$sLearn more about activating the API key →%4$s"
+msgstr "Du findest ihn auf dem Tab %1$sMy Account (Mein Konto) / API Keys (API-Schlüssel)%2$s. %3$sErfahre mehr über die Aktivierung des API-Schlüssels →%4$s"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-license/src/ActivationForm/views/activation-form-content.php:54
+#: ActivationForm/views/activation-form-content.php:46
+msgid "Key: "
+msgstr "Schlüssel: "
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-license/src/ActivationForm/views/activation-form-content.php:66
+#: ActivationForm/views/activation-form-content.php:50
+msgid "Deactivate license"
+msgstr "Abonnement deaktivieren"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-license/src/ActivationForm/views/activation-form-content.php:74
+#: ActivationForm/views/activation-form-content.php:52
+msgid "Renew subscription →"
+msgstr "Abonnement erneuern →"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-license/src/ActivationForm/views/activation-form-content.php:83
+#: ActivationForm/views/activation-form-content.php:55
+msgid "Activate license"
+msgstr "Abonnement aktivieren"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-license/src/ActivationForm/views/activation-form.php:76
+#: ActivationForm/views/activation-form.php:52
+msgid "The action failed with an error: "
+msgstr "Die Aktion ist mit einem Fehler fehlgeschlagen: "
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-license/src/ActivationForm/views/activation-form.php:79
+#: ActivationForm/views/activation-form.php:53
+msgid "Enter license key"
+msgstr "Gib hier deinen Abonnementschlüssel ein"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-license/src/Page/License/Action/LicenseActivation.php:132
+#: Page/License/Action/LicenseActivation.php:142
+msgid "Connection failed to the Subscription Key API server. Try again later."
+msgstr "Die Verbindung mit dem Abonnementschlüssel-API-Server ist fehlgeschlagen. Versuche es später erneut."
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-license/src/Page/License/Action/LicenseActivation.php:141
+#: Page/License/Action/LicenseActivation.php:156
+msgid "Plugin license activated. "
+msgstr "Plugin-Abonnement aktiviert."
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-license/src/Page/License/Action/LicenseDeactivation.php:31
+#: Page/License/Action/LicenseDeactivation.php:46
+msgid "Plugin license deactivated. "
+msgstr "Plugin-Lizenz deaktiviert. "
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-license/src/Page/License/views/class-wpdesk-helper-list-table.php:27
+#: Page/License/views/class-wpdesk-helper-list-table.php:34
+msgid "No WP Desk plugins found."
+msgstr "Keine WP Desk Plugins gefunden."
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-license/src/Page/License/views/class-wpdesk-helper-list-table.php:39
+#: Page/License/views/class-wpdesk-helper-list-table.php:47
+msgid "Plugin"
+msgstr "Plugin"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-license/src/Page/License/views/class-wpdesk-helper-list-table.php:39
+#: Page/License/views/class-wpdesk-helper-list-table.php:48
+msgid "Subscription Status"
+msgstr "Abonnement-Status"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-license/src/Page/License/views/class-wpdesk-helper-list-table.php:39
+#: Page/License/views/class-wpdesk-helper-list-table.php:49
+msgid "Subscription Data"
+msgstr "Abonnement Daten"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-license/src/Page/License/views/class-wpdesk-helper-list-table.php:56
+#: Page/License/views/class-wpdesk-helper-list-table.php:69
+msgid "Deactivated"
+msgstr "Deaktiviert"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-license/src/Page/License/views/class-wpdesk-helper-list-table.php:58
+#: Page/License/views/class-wpdesk-helper-list-table.php:71
+msgid "Activated"
+msgstr "Aktiviert"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-license/src/Page/License/views/license-actions.php:14
+#: Page/License/views/license-actions.php:9
+msgid "Key:"
+msgstr "Schlüssel:"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-license/src/Page/License/views/license-actions.php:25
+#: Page/License/views/license-actions.php:14
+msgid "Email:"
+msgstr "E-Mail:"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-license/src/Page/License/views/license-actions.php:41
+#: Page/License/views/license-actions.php:22
+msgid "Activate"
+msgstr "Aktivieren"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-license/src/Page/License/views/license-actions.php:47
+#: Page/License/views/license-actions.php:24
+msgid "Deactivate"
+msgstr "Deaktivieren"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-license/src/Page/License/views/licenses.php:27
+#: Page/License/views/licenses.php:20
+msgid "WP Desk Subscriptions"
+msgstr "WP Desk-Abonnements"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-license/src/Page/License/views/licenses.php:37
+#: Page/License/views/licenses.php:30
+#, php-format
+msgid "Get your subscription keys <a href=\"%s\" target=\"_blank\">here</a>. You can activate/deactivate API keys <strong>unlimited times on different domains</strong> as long as you have an active subscription."
+msgstr "Hol deinen Abonnement-Schlüssel <a href=\"%s\" target=\"_blank\">hier</a>. Du kannst API-Schlüssel <strong>unbegrenzt auf verschiedenen Domains</strong> aktivieren/deaktivieren, solange du ein aktives Abonnement hast."
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-license/src/Page/LicensePage.php:41
+#: Page/LicensePage.php:45
+#: Page/LicensePage.php:46
+msgid "Subscriptions"
+msgstr "Abonnements"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-license/src/WpUpgrader/SubscriptionHandler.php:72
+#: WpUpgrader/SubscriptionHandler.php:82
+#, php-format
+msgid "Your plugin subscription has expired. In order to update the plugin please %1$srenew your subscription%2$s"
+msgstr "Dein Plugin-Abonnement ist abgelaufen. Um das Plugin zu aktualisieren, erneuere bitte %1$sdein Abonnement%2$s"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-license/src/WpUpgrader/SubscriptionHandler.php:74
+#: WpUpgrader/SubscriptionHandler.php:91
+#, php-format
+msgid "An active subscription API key is required to download the plugin updates. In order to update the plugin please %1$sactivate your API key%2$s"
+msgstr "Ein aktiver API-Schlüssel ist erforderlich, um die Plugin-Updates herunterzuladen. Um das Plugin zu aktualisieren, aktiviere bitte %1$sdeinen API-Schlüssel%2$s"
+
+#. Translators: plugin name.
+#: vendor_prefixed/wpdesk/wp-wpdesk-rating-petition/src/RatingPetitionNotice.php:151
+#: RatingPetitionNotice.php:169
+#, php-format
+msgid "Awesome, you've been using %s for more than 2 weeks. Could you please do me a BIG favor and give it a 5-star rating on WordPress? ~ Peter"
+msgstr "Toll, du hast %s schon seit mehr als 2 Wochen benutzt. Könntest du mir bitte einen GROSSEN Gefallen tun und ihm eine 5-Sterne-Bewertung auf WordPress geben? ~ Peter"
+
+#. Translators: link.
+#: vendor_prefixed/wpdesk/wp-wpdesk-rating-petition/src/RatingPetitionNotice.php:166
+#: RatingPetitionNotice.php:184
+#, php-format
+msgid "%1$sOk, you deserved it%2$s"
+msgstr "%1$s Ok, du hast es verdient %2$s"
+
+#. Translators: link.
+#: vendor_prefixed/wpdesk/wp-wpdesk-rating-petition/src/RatingPetitionNotice.php:172
+#: RatingPetitionNotice.php:190
+#, php-format
+msgid "%1$sNope, maybe later%2$s"
+msgstr "%1$s Nein, vielleicht später%2$s"
+
+#. Translators: link.
+#: vendor_prefixed/wpdesk/wp-wpdesk-rating-petition/src/RatingPetitionNotice.php:178
+#: RatingPetitionNotice.php:196
+#, php-format
+msgid "%1$sI already did%2$s"
+msgstr "%1$sSchon getan%2$s"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-rating-petition/src/views/html-text-petition.php:15
+#: views/html-text-petition.php:11
+#, php-format
+msgid "Created with %1$s by %2$s - If you like %3$s you can %4$srate us %5$s in plugins repository &rarr;%6$s"
+msgstr "Erstellt mit %1$s von %2$s - Hat es dir %3$s gefallen, könntest du uns %4$s%5$s in plugins Repository bewerten &rarr;%6$s"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker-deactivation/src/WPDesk/Tracker/Deactivation/views/scripts.php:44
+#: src/WPDesk/Tracker/Deactivation/views/scripts.php:36
+msgid "Plugin deactivation"
+msgstr "Plugin-Deaktivierung"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker-deactivation/src/WPDesk/Tracker/Deactivation/views/scripts.php:115
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-deactivate.php:126
+#: src/views/tracker-deactivate.php:92
+#: src/WPDesk/Tracker/Deactivation/views/scripts.php:85
+msgid "Submit &amp; Deactivate"
+msgstr "Absenden &amp; Deaktivieren"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker-deactivation/src/WPDesk/Tracker/Deactivation/views/thickbox.php:20
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-deactivate.php:11
+#: src/views/tracker-deactivate.php:3
+#: src/WPDesk/Tracker/Deactivation/views/thickbox.php:14
+#, php-format
+msgid "You are deactivating %s plugin."
+msgstr "Das %s Plugin wird gerade deaktiviert."
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker-deactivation/src/WPDesk/Tracker/Deactivation/views/thickbox.php:29
+#: src/WPDesk/Tracker/Deactivation/views/thickbox.php:19
+msgid "If you have a moment, please let us know why you are deactivating the plugin (anonymous feedback):"
+msgstr "Wenn du einen Moment Zeit hast, lass uns bitte wissen, warum du das Plugin deaktiviert hast (anonymes Feedback):"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker-deactivation/src/WPDesk/Tracker/Deactivation/views/thickbox.php:38
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-deactivate.php:28
+#: src/views/tracker-deactivate.php:16
+#: src/WPDesk/Tracker/Deactivation/views/thickbox.php:26
+msgid "The plugin suddenly stopped working"
+msgstr "Das PlugIn funktioniert plötzlich nicht mehr"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker-deactivation/src/WPDesk/Tracker/Deactivation/views/thickbox.php:48
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-deactivate.php:38
+#: src/views/tracker-deactivate.php:24
+#: src/WPDesk/Tracker/Deactivation/views/thickbox.php:34
+msgid "The plugin broke my site"
+msgstr "Das Plugin hat meine Seite gestört"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker-deactivation/src/WPDesk/Tracker/Deactivation/views/thickbox.php:58
+#: src/WPDesk/Tracker/Deactivation/views/thickbox.php:42
+msgid "I have found a better plugin"
+msgstr "Ich habe ein besseres Plugin gefunden"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker-deactivation/src/WPDesk/Tracker/Deactivation/views/thickbox.php:63
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-deactivate.php:53
+#: src/views/tracker-deactivate.php:35
+#: src/WPDesk/Tracker/Deactivation/views/thickbox.php:45
+msgid "What's the plugin's name?"
+msgstr "Wie heißt das PlugIn?"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker-deactivation/src/WPDesk/Tracker/Deactivation/views/thickbox.php:73
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-deactivate.php:63
+#: src/views/tracker-deactivate.php:43
+#: src/WPDesk/Tracker/Deactivation/views/thickbox.php:53
+msgid "I only needed the plugin for a short period"
+msgstr "Ich brauchte das Plugin nur für einen kurzen Zeitraum"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker-deactivation/src/WPDesk/Tracker/Deactivation/views/thickbox.php:83
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-deactivate.php:73
+#: src/views/tracker-deactivate.php:51
+#: src/WPDesk/Tracker/Deactivation/views/thickbox.php:61
+msgid "I no longer need the plugin"
+msgstr "Ich brauche das Plugin nicht mehr"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker-deactivation/src/WPDesk/Tracker/Deactivation/views/thickbox.php:93
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-deactivate.php:83
+#: src/views/tracker-deactivate.php:59
+#: src/WPDesk/Tracker/Deactivation/views/thickbox.php:69
+msgid "It's a temporary deactivation. I'm just debugging an issue."
+msgstr "Es ist eine vorübergehende Deaktivierung. Ich debugge gerade ein Problem."
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker-deactivation/src/WPDesk/Tracker/Deactivation/views/thickbox.php:103
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-deactivate.php:93
+#: src/views/tracker-deactivate.php:67
+#: src/WPDesk/Tracker/Deactivation/views/thickbox.php:77
+msgid "Other"
+msgstr "Andere"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker-deactivation/src/WPDesk/Tracker/Deactivation/views/thickbox.php:108
+#: src/WPDesk/Tracker/Deactivation/views/thickbox.php:80
+msgid "Please let us know how we can improve our plugin"
+msgstr "Bitte teile uns mit, wie wir unser Plugin verbessern können"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker-deactivation/src/WPDesk/Tracker/Deactivation/views/thickbox.php:117
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-deactivate.php:107
+#: src/views/tracker-deactivate.php:77
+#: src/WPDesk/Tracker/Deactivation/views/thickbox.php:87
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker-deactivation/src/WPDesk/Tracker/Deactivation/views/thickbox.php:120
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-deactivate.php:110
+#: src/views/tracker-deactivate.php:78
+#: src/WPDesk/Tracker/Deactivation/views/thickbox.php:88
+msgid "Skip &amp; Deactivate"
+msgstr "Überspringen &amp; deaktivieren"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/PSR/WPDesk/Tracker/OptOut.php:41
+#: src/PSR/WPDesk/Tracker/OptOut.php:45
+#, php-format
+msgid "You successfully opted out of collecting usage data by %1$s. If you change your mind, you can always opt in later in the plugin's quick links."
+msgstr "Du hast dich bis %1$s erfolgreich gegen die Erfassung von Nutzungsdaten entschieden. Wenn du deine Meinung änderst, kannst du dich später über die Quicklinks des Plugins wieder anmelden."
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/PSR/WPDesk/Tracker/PluginActionLinks.php:50
+#: src/PSR/WPDesk/Tracker/PluginActionLinks.php:55
+msgid "Opt-in"
+msgstr "Opt-in"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/PSR/WPDesk/Tracker/PluginActionLinks.php:53
+#: src/PSR/WPDesk/Tracker/PluginActionLinks.php:58
+msgid "Opt-out"
+msgstr "Opt-out"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/PSR/WPDesk/Tracker/views/tracker-connect.php:23
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-connect.php:15
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-notice.php:19
+#: src/PSR/WPDesk/Tracker/views/tracker-connect.php:15
+#: src/views/tracker-connect.php:7
+#: src/views/tracker-notice.php:7
+#, php-format
+msgid "Hey %s,"
+msgstr "Hallo %s,"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/PSR/WPDesk/Tracker/views/tracker-connect.php:26
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-connect.php:18
+#: src/PSR/WPDesk/Tracker/views/tracker-connect.php:16
+#: src/views/tracker-connect.php:8
+msgid "Please help us improve our plugins! If you opt-in, we will collect some non-sensitive data and usage information anonymously. If you skip this, that's okay! All plugins will work just fine."
+msgstr "Bitte hilf uns, unsere Plugins zu verbessern! Wenn du zustimmst, sammele wir einige nicht-sensible Daten und Nutzungsinformationen. Wenn du stattdessen überspringst, es ist okay! Alle Plugins werden dennoch ganz normal funktionieren."
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/PSR/WPDesk/Tracker/views/tracker-connect.php:35
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-connect.php:27
+#: src/PSR/WPDesk/Tracker/views/tracker-connect.php:21
+#: src/views/tracker-connect.php:13
+msgid "Allow & Continue &rarr;"
+msgstr "Zulassen & Weiter &rarr;"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/PSR/WPDesk/Tracker/views/tracker-connect.php:40
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-connect.php:32
+#: src/PSR/WPDesk/Tracker/views/tracker-connect.php:22
+#: src/views/tracker-connect.php:14
+msgid "Skip"
+msgstr "Überspringen"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/PSR/WPDesk/Tracker/views/tracker-connect.php:47
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-connect.php:39
+#: src/PSR/WPDesk/Tracker/views/tracker-connect.php:27
+#: src/views/tracker-connect.php:19
+msgid "What permissions are being granted?"
+msgstr "Welche Berechtigungen werden erteilt?"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/PSR/WPDesk/Tracker/views/tracker-connect.php:56
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-connect.php:48
+#: src/PSR/WPDesk/Tracker/views/tracker-connect.php:34
+#: src/views/tracker-connect.php:26
+msgid "Your Site Overview"
+msgstr "Deine Website-Übersicht"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/PSR/WPDesk/Tracker/views/tracker-connect.php:59
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-connect.php:51
+#: src/PSR/WPDesk/Tracker/views/tracker-connect.php:35
+#: src/views/tracker-connect.php:27
+msgid "WP version, PHP info"
+msgstr "WP Version, PHP Info"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/PSR/WPDesk/Tracker/views/tracker-connect.php:67
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-connect.php:59
+#: src/PSR/WPDesk/Tracker/views/tracker-connect.php:41
+#: src/views/tracker-connect.php:33
+msgid "Plugin Usage"
+msgstr "Plugin Nutzung"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/PSR/WPDesk/Tracker/views/tracker-connect.php:70
+#: src/PSR/WPDesk/Tracker/views/tracker-connect.php:42
+#, php-format
+msgid "Current settings and usage information of %1$s plugins"
+msgstr "Aktuelle Einstellungen und Nutzungsinformationen von %1$s Plugins"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/PSR/WPDesk/Tracker/views/tracker-connect.php:78
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-connect.php:70
+#: src/PSR/WPDesk/Tracker/views/tracker-connect.php:48
+#: src/views/tracker-connect.php:40
+msgid "Your Store Overview"
+msgstr "Überblick über deinen Shop"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/PSR/WPDesk/Tracker/views/tracker-connect.php:81
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-connect.php:73
+#: src/PSR/WPDesk/Tracker/views/tracker-connect.php:49
+#: src/views/tracker-connect.php:41
+msgid "Anonymized and non-sensitive store usage information"
+msgstr "Anonymisierte und nicht sensible Speichernutzungsinformationen"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/PSR/WPDesk/Tracker/views/tracker-connect.php:91
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-connect.php:83
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-notice.php:27
+#: src/PSR/WPDesk/Tracker/views/tracker-connect.php:55
+#: src/views/tracker-connect.php:47
+#: src/views/tracker-notice.php:9
+msgid "Find out more &raquo;"
+msgstr "Erfahre mehr &raquo;"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-connect.php:62
+#: src/views/tracker-connect.php:34
+msgid "Current settings and usage information of WP Desk plugins"
+msgstr "Aktuelle Einstellungen und Nutzungsinformationen von WP Desk Plugins"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-deactivate.php:19
+#: src/views/tracker-deactivate.php:9
+msgid " If you have a moment, please let us know why you are deactivating plugin (anonymous feedback):"
+msgstr " Wenn du einen Moment Zeit hast, lass uns bitte wissen, warum du das Plugin deaktivierst (anonymes Feedback):"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-deactivate.php:48
+#: src/views/tracker-deactivate.php:32
+msgid "I found a better plugin"
+msgstr "Ich habe ein besseres Plugin gefunden"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-deactivate.php:98
+#: src/views/tracker-deactivate.php:70
+msgid "Kindly tell us the reason so we can improve"
+msgstr "Nenne bitte den Grund, sodass wir uns stetig verbessern können"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-notice.php:22
+#: src/views/tracker-notice.php:8
+msgid "We need your help to improve <strong>WP Desk plugins</strong>, so they are more useful for you and the rest of <strong>30,000+ users</strong>. By collecting data on how you use our plugins, you will help us a lot. We will not collect any sensitive data, so you can feel safe."
+msgstr "Wir benötigen Ihre Hilfe, um die <strong>WP-Desk-Plugins</strong> zu verbessern, so dass sie noch nützlicher für dich und den Rest der <strong>30,000+ Benutzer</strong> sind. Indem wir Daten darüber sammeln, wie du unsere Plugins verwendest, hilfst du uns sehr. Wir sorgen dafür, dass keine sensible Daten gesammelt werden."
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-opt-out-notice.php:11
+#: src/views/tracker-opt-out-notice.php:3
+msgid "You successfully opted out of collecting usage data by WP Desk. If you change your mind, you can always opt in later in the plugin's quick links."
+msgstr "Du hast erfolgreich angegeben, dass du keine Nutzungsdaten mit WP Desk teilen möchtest. Wenn du deine Meinung ändern solltest, könntest du jederzeit über die Quicklinks des Plugins zustimmen."
+
+#: Basic_Requirement_Checker.php:202
+#, php-format
+msgid "The &#8220;%s&#8221; plugin cannot run on PHP versions older than %s. Please contact your host and ask them to upgrade."
+msgstr "Das &#8220;%s&#8221; Plugin kann nicht mit PHP-Versionen älter als %s ausgeführt werden. Bitte kontaktiere deinen Hoster und bitte ihn darum, ein Upgrade durchzuführen."
+
+#: Basic_Requirement_Checker.php:206
+#, php-format
+msgid "The &#8220;%s&#8221; plugin cannot run on WordPress versions older than %s. Please update WordPress."
+msgstr "Das &#8220;%s&#8221; Plugin kann nicht auf WordPress-Versionen ausgeführt werden, die älter als %s sind. Bitte aktualisiere WordPress."
+
+#: Basic_Requirement_Checker.php:210
+#, php-format
+msgid "The &#8220;%s&#8221; plugin cannot run on WooCommerce versions older than %s. Please update WooCommerce."
+msgstr "Das &#8220;%s&#8221; Plugin kann nicht auf WooCommerce-Versionen ausgeführt werden, die älter als %s sind. Bitte aktualisiere WooCommerce."
+
+#: Basic_Requirement_Checker.php:214
+#, php-format
+msgid "The &#8220;%s&#8221; plugin cannot run without OpenSSL module version at least %s. Please update OpenSSL module."
+msgstr "Das &#8220;%s&#8221; Plugin kann nicht ohne mindestens %s OpenSSL-Modulversion ausgeführt werden. Bitte aktualisiere das OpenSSL-Modul."
+
+#: Basic_Requirement_Checker.php:308
+#, php-format
+msgid "The &#8220;%1$s&#8221; plugin requires at least %2$s version of %3$s to work correctly. Please update it to its latest release."
+msgstr "Das Plugin &#8220;%1$s&#8221; benötigt mindestens %2$s Version von %3$s, um korrekt zu funktionieren. Bitte aktualisiere es auf die neueste Version."
+
+#: Basic_Requirement_Checker.php:395
+#, php-format
+msgid "The &#8220;%s&#8221; plugin cannot run without %s active. Please install and activate %s plugin."
+msgstr "Das &#8220;%s&#8221; Plugin kann nicht ohne aktives %s ausgeführt werden. Bitte installiere und aktiviere das %s Plugin."
+
+#: Basic_Requirement_Checker.php:456
+#, php-format
+msgid "The &#8220;%s&#8221; plugin requires free %s plugin. <a href=\"%s\">Install %s</a>"
+msgstr "Das &#8220;%s&#8221; Plugin erfordert ein kostenloses %s Plugin. <a href=\"%s\">Installiere %s</a>"
+
+#: Basic_Requirement_Checker.php:465
+#, php-format
+msgid "The &#8220;%s&#8221; plugin requires activating %s plugin. <a href=\"%s\">Activate %s</a>"
+msgstr "Das &#8220;%s&#8221; Plugin erfordert die Aktivierung des %s Plugins. <a href=\"%s\">Aktiviere %s</a>"
+
+#: Basic_Requirement_Checker.php:512
+#, php-format
+msgid "The &#8220;%s&#8221; plugin cannot run without %s PHP module installed. Please contact your host and ask them to install %s."
+msgstr "Das &#8220;%s&#8221; Plugin kann nicht laufen, wenn kein %s PHP-Modul installiert ist. Bitte kontaktiere deinen Hoster und bitte ihn, %s zu installieren."
+
+#: Basic_Requirement_Checker.php:540
+#, php-format
+msgid "The &#8220;%s&#8221; plugin cannot run without %s PHP setting set to %s. Please contact your host and ask them to set %s."
+msgstr "Das &#8220;%s&#8221; Plugin kann nicht laufen ohne die %s PHP-Einstellung auf %s zu setzen. Bitte kontaktiere deinen Hoster und bitte ihn, %s zu setzen."
+
+#: Basic_Requirement_Checker_With_Update_Disable.php:27
+#, php-format
+msgid "The &#8220;%s&#8221; plugin is temporarily disabled since the required %s plugin is being upgraded."
+msgstr "Das Plugin &#8220;%s&#8221; ist vorübergehend deaktiviert, da das erforderliche %s Plugin gerade aktualisiert wird."
+
+#: src/WooCommerceShipping/CustomFields/ApiStatus/FieldApiStatusAjax.php:136
+msgid "Shipping service should implements CanTestSettings interface! Or overwrite this method"
+msgstr "Der Versanddienst sollte die CanTestSettings-Schnittstelle implementieren oder überschreiben Sie diese Methode"
+
+#: src/WooCommerceShipping/CustomOrigin/CustomOriginFields.php:66
+msgid "Use this option to use the different shipper's address than the one defined in the WooCommerce settings. If not enabled, the one you've entered at WooCommerce → Settings → General → Store Address will be used by default."
+msgstr "Verwende diese Option, um eine andere Versandadresse zu verwenden als die, die in den WooCommerce-Einstellungen definiert ist. Wenn diese Option nicht aktiviert ist, wird standardmäßig die Adresse verwendet, die du unter WooCommerce → Einstellungen → Allgemein → Ladenadresse eingegeben hast."
+
+#: ApiManager/class-wc-api-manager-menu.php:59
+#: ApiManager/class-wc-api-manager-menu.php:64
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: ApiManager/class-wc-api-manager-menu.php:81
+msgid "API Key Activation"
+msgstr "Abonnement aktivieren"
+
+#: ApiManager/class-wc-api-manager-menu.php:83
+msgid "API Key Status"
+msgstr "Abonnement-Status"
+
+#: ApiManager/class-wc-api-manager-menu.php:87
+msgid "API Subscription Key"
+msgstr "API-Abonnementschlüssel"
+
+#: ApiManager/class-wc-api-manager-menu.php:90
+msgid "API Subscription email"
+msgstr "API-Abonnement-E-Mail"
+
+#: ApiManager/class-wc-api-manager-menu.php:97
+msgid "API Key Deactivation"
+msgstr "Abonnement deaktivieren"
+
+#: ApiManager/class-wc-api-manager-menu.php:100
+msgid "Deactivate API Key"
+msgstr "API-Schlüssel deaktivieren"
+
+#: ApiManager/class-wc-api-manager-menu.php:183
+msgid "Plugin activated. "
+msgstr "Plugin aktiviert. "
+
+#: ApiManager/class-wc-api-manager-menu.php:191
+msgid "Connection failed to the API Key server. Try again later."
+msgstr "Die Verbindung mit dem API-Schlüsselserver ist fehlgeschlagen. Versuche es später erneut."
+
+#: ApiManager/class-wc-api-manager-menu.php:297
+msgid "The subscription could not be deactivated. Use the Subscription Deactivation tab to manually deactivate the subscription before activating a new subscription."
+msgstr "Das Abonnement konnte nicht deaktiviert werden. Verwende das Abonnementdeaktivierungstab, um das Abonnement manuell zu deaktivieren, bevor du ein neues Abonnement aktivierst."
+
+#: ApiManager/class-wc-api-manager-menu.php:337
+msgid "Plugin subscription deactivated. "
+msgstr "Plugin-Abonnement deaktiviert. "
+
+#: ApiManager/class-wc-api-manager-menu.php:422
+msgid "Deactivates an API Key so it can be used on another blog."
+msgstr "Deaktiviert einen API-Schlüssel, damit er auf einer anderen Seite verwendet werden kann."
+
+#: ApiManager/class-wc-api-manager.php:177
+msgid "Subscription Activation"
+msgstr "Abonnement Aktivierung"
+
+#: ApiManager/class-wc-api-manager.php:178
+msgid "Subscription Deactivation"
+msgstr "Abonnement Deaktivierung"
+
+#: ApiManager/class-wc-api-manager.php:462
+#, php-format
+msgid "The %1$s%2$s%3$s API Key has not been activated, so you won't be supported and your plugin won't be updated! %4$sClick here%5$s to activate the API key and the plugin."
+msgstr "Der %1$s%2$s%3$s API-Schlüssel wurde nicht aktiviert, so dass du nicht unterstützt wirst und dein Plugin nicht aktualisiert wird! %4$sKlicke hier%5$s, um den API-Schlüssel und das Plugin zu aktivieren."
+
+#: ApiManager/class-wc-api-manager.php:486
+#, php-format
+msgid "<b>Warning!</b> You're blocking external requests which means you won't be able to get %s updates. Please add %s to %s."
+msgstr "<b>Warnung!</b> Externe Anfragen werden von dir blockiert, was bedeutet, dass du keine %s-Aktualisierungen erhalten wirst. Bitte füge %s zu %s hinzu."
+
+#: ApiManager/class-wc-plugin-update.php:458
+#, php-format
+msgid "The API key for %s has expired. You can reactivate or purchase a API key from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr "Der API-Schlüssel für %s ist abgelaufen. Du kannst einen API-Schlüssel im <a href=\"%s\" target=\"_blank\">Dashboard</a> deines Kontos wieder aktivieren oder kaufen."
+
+#: ApiManager/class-wc-plugin-update.php:472
+#, php-format
+msgid "The subscription for %s is on-hold. You can reactivate the subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr "Das Abonnement für %s ist ausgesetzt. Du kannst es über dein Konto reaktivieren. <a href=\"%s\" target=\"_blank\">Dashboard</a>."
+
+#: ApiManager/class-wc-plugin-update.php:486
+#, php-format
+msgid "The subscription for %s has been cancelled. You can renew the subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>. A new API key will be emailed to you after your order has been completed."
+msgstr "Das Abonnement für %s wurde gekündigt. Du kannst dein Abonnement im <a href=\"%s\" target=\"_blank\">Dashboard</a> deines Kontos erneuern. Ein API-Schlüssel wird dir per E-Mail zugeschickt, sobald die Bestellung abgeschlossen ist."
+
+#: ApiManager/class-wc-plugin-update.php:500
+#, php-format
+msgid "The subscription for %s has expired. You can reactivate the subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr "Das Abonnement für %s ist abgelaufen. Du kannst dein Abonnement im <a href=\"%s\" target=\"_blank\">Dashboard</a> deines Kontos wieder aktivieren."
+
+#: ApiManager/class-wc-plugin-update.php:514
+#, php-format
+msgid "The subscription for %s has been suspended. You can reactivate the subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr "Das Abonnement für %s wurde unterbrochen. Du kannst das Abonnement über dein Konto <a href=\"%s\" target=\"_blank\">Dashboard</a> reaktivieren."
+
+#: ApiManager/class-wc-plugin-update.php:528
+#, php-format
+msgid "The subscription for %s is still pending. You can check on the status of the subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr "Das Abonnement für %s ist noch in Bearbeitung. Du kannst den Status des Abonnements von deinem <a href=\"%s\" target=\"_blank\">Kontodashboard</a> aus überprüfen."
+
+#: ApiManager/class-wc-plugin-update.php:542
+#, php-format
+msgid "The subscription for %s has been placed in the trash and will be deleted soon. You can purchase a new subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr "Das Abonnement für das %s Plugin wurde gekündigt. Um dein Abonnement zu erneuern, <a href=\"%s\" target=\"_blank\">klicke hier</a>."
+
+#: ApiManager/class-wc-plugin-update.php:556
+#, php-format
+msgid "A subscription for %s could not be found. You can purchase a subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr "Das Abonnement für %s konnte nicht gefunden werden. Du kannst über deine Abonnements von deinem <a href=\"%s\" target=\"_blank\">Konto</a> aus verwalten."
+
+#: ApiManager/class-wc-plugin-update.php:570
+#, php-format
+msgid "A API key for %s could not be found. Maybe you forgot to enter a API key when setting up %s, or the key was deactivated in your account. You can reactivate or purchase a subscription key from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr "Für %s konnte kein Abonnement gefunden werden. Vielleicht hast du vergessen, den API-Schlüssel einzugeben, als du %s eingerichtet hast, oder der Schlüssel wurde in deinem Konto deaktiviert. Du kannst einen Abonnement-Schlüssel im <a href=\"%s\" target=\"_blank\">Dashboard</a> deines Kontos wieder aktivieren oder kaufen."
+
+#: ApiManager/class-wc-plugin-update.php:585
+#, php-format
+msgid "Download permission for %s has been revoked possibly due to a API key or subscription expiring. You can reactivate or purchase a API key from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr "Die Download-Erlaubnis für %s wurde möglicherweise aufgrund eines API-Schlüssels oder eines auslaufenden Abonnements widerrufen. Du kannst einen API-Schlüssel über das <a href=\"%s\" target=\"_blank\">Dashboard</a> deines Kontos wieder aktivieren oder kaufen."
+
+#: ApiManager/class-wc-plugin-update.php:599
+#, php-format
+msgid "%s has not been activated. Go to the settings page and enter the API key and subscription email to activate %s."
+msgstr "%s wurde nicht aktiviert. Wechsele zur Einstellungenseite, und gib den API-Schlüssel und die Abonnement-E-Mail ein, um %s zu aktivieren."
+
+#: ApiManager/class-wc-plugin-update.php:613
+#, php-format
+msgid "You changed the subscription for %s, so you will need to enter your new API Key in the settings page. The API Key should have arrived in your email inbox, if not you can get it by logging into your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr "Das Abonnement für %s wurde geändert. Du kannst über deine Abonnemente von deinem <a href=\"%s\" target=\"_blank\">Konto</a> aus verwalten."

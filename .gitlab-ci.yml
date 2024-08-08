@@ -1,0 +1,22 @@
+before_script:
+  - 'which lftp || ( apt-get update -y && apt-get install lftp -y )'
+  #- 'which ip || ( apt-get update -y && apt-get install -y iproute2 )'
+  #- 'which wg || ( apt-get update -y && apt-get install -y wireguard-tools )'
+  #- echo "$WG_CONFIG" > /etc/wireguard/wg0.conf
+  #- cat /etc/wireguard/wg0.conf
+  #- cat /etc/os-release
+  #- wg-quick up wg0  
+
+
+deploy_production:
+  only:
+    - main
+  stage: deploy
+  tags:
+    - deploy
+  script:
+    - lftp -c "set ssl:verify-certificate false; open -u $FTP_USERNAME,$FTP_PASSWORD $FTP_HOSTNAME; mirror -Rnv ./files/ ./onrial.eu/www --ignore-time --parallel=10 --exclude-glob .git* --exclude .git/"
+  when: always
+
+#after_script:
+#  - wg-quick down wg0
